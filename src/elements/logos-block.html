@@ -58,10 +58,12 @@
         height: 60px;
         width: 140px;
       }
-
       .logo-img.info {
         height: 45px;
         width: 100px;
+      }
+      .logo-msg {
+        font-style: italic;
       }
     </style>
 
@@ -83,6 +85,9 @@
                 ></iron-image>
               </a>
             </template>
+            <template is="dom-if" if="[[!block.logos.length]]">
+              <div class="logo-msg">Announcing soon!</div>
+            </template> 
           </div>
         </div>
       </template>

@@ -95,29 +95,21 @@
     "url": "https://devfestnl16.eventbrite.com",
     "elements": [
       {
-        "name": "early-bird",
+        "name": "early-ticket",
         "price": 0,
         "currency": "",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 0,
+        "currency": "",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
         "soldOut": false
       }
     ]
@@ -126,7 +118,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 500,
+      "counter": 600,
       "caption": "attendees"
     },
     {
@@ -134,7 +126,7 @@
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 20,
       "caption": "sessions"
     },
     {

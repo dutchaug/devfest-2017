@@ -69,18 +69,15 @@
         width: 100%;
         font-size: 18px;
         align-self: center;
+        text-align: center;
         padding: 20px;
         background: rgba(0,0,0,0.6);
         border-radius: 20px;
       }
 
       .logo {
-        width: 240px;
+        width: 360px;
         min-height: 80px;
-      }
-
-      .inset {
-        margin-left: 60px;
       }
 
       .dates {
@@ -132,14 +129,19 @@
           <div class="container">
             <div class="home-wrapper">
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest The Netherlands 2016" width="300"></iron-image>
-              <h3 class="inset dates">{{localize('dates')}}</h3>
-              <div class="inset open-video" on-tap="_openVideo">
+                          alt="GDG DevFest The Netherlands 2016"></iron-image>
+              <h3 class="dates">{{localize('dates')}}</h3>
+              <!--
+              <div class="open-video" on-tap="_openVideo">
                 <iron-icon icon="play"></iron-icon>
                 {{localize('play-icon')}}
               </div>
-              <div class="inset action-buttons">
+              -->
+              <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
+                <a class="block-link" href$="[[app.data.mailchimp.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
+                  <paper-button class="primary" raised>{{localize('subscribe-updates')}}</paper-button>
+                </a>
               </div>
             </div>
           </div>

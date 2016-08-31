@@ -40,7 +40,7 @@ meta data in `index.html`
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
   <meta name="author" content="GDG Lviv">
 
-  <title>GDG DevFest Ukraine 2016</title>
+  <title>GDG DevFest The Netherlands 2016</title>
   ...
 ```
 
@@ -68,7 +68,7 @@ window.ENV = 'dev';
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 2016",
+        "title": "GDG DevFest The Netherlands 2016",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },

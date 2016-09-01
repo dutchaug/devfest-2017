@@ -11,7 +11,7 @@
           "youtubeId": "JiLYsYvCs-A",
           "text": "See how it was in 2015"
         },
-        "hideLogo": true,
+        "hideLogo": false,
         "minHeight": "360px"
       }
     },

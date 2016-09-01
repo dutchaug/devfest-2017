@@ -25,6 +25,10 @@ We're pleased to announce that our [call for papers](https://docs.google.com/a/d
 
 ### See you soon!
 
-You can find information about registration, speakers, tickets and other latest news on the [conference website](https://devfest.nl/), [Twitter](https://twitter.com/devfestnl),[Facebook](https://www.facebook.com/groups/dutchaug/) or [Google+](https://plus.google.com/113182948271879290904). Don’t miss any updates, expecially if you're still trying to snag your free ticket!
+You can find information about registration, speakers, tickets and other latest news on the [conference website](https://devfest.nl/), [Twitter](https://twitter.com/devfestnl), [Facebook](https://www.facebook.com/groups/dutchaug/) or [Google+](https://plus.google.com/113182948271879290904).
 
-And most importantly: **Inspire, and be inspired!**
+[Subscribe to the newsletter](https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5) to make sure you don’t miss any updates, expecially if you're still trying to snag your free ticket!
+
+<br/>
+
+Most importantly: *Have fun, and see you on October 8th!*

@@ -18,10 +18,12 @@ Please join us with our goal of making our events awesome for everybody!
 
 ### Reporting violations
 
-If someone is bothering you, please tell any organizer immediately and allow them to take care of addressing it. You can find contacts below, but also see the team page for all involved in the organization that can help.
+If someone is bothering you, please tell any organizer immediately and allow them to take care of addressing it. You can find contacts below, but also see the [team page](/team) for all involved in the organization that can help.
 
 #### Contacts:
 
 - Paul Lammertsma  
   <a href="tel:+31614462953">+31 6 1446 2953</a>  
   [paul@dutchaug.org](mailto:paul@dutchaug.org?subject=Code of Conduct violation)
+- [All organizers](/team)  
+  [info@devfest.nl](mailto:info@devfest.nl?subject=Code of Conduct violation)

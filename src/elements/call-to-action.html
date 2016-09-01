@@ -28,9 +28,8 @@
         margin-bottom: 0 !important;
       }
 
-      .youtubeIcon {
-        height: 1em;
-        margin-right: 0.5em;
+      .play-icon {
+        margin-right: 0.3em;
       }
 
       @media (max-width: 599px) {
@@ -52,7 +51,7 @@
 
     <div class="container container-narrow">
       <h4 class="heading">[[localize(app.data.callToAction.videoTitle)]]</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo"><img src="/images/YouTube-social-icon_red_48px.png" alt="" class="youtubeIcon"/>[[localize('action')]]</paper-button>
+      <paper-button class="open-dialog-button" on-tap="playVideo"><iron-icon icon="play" class="play-icon"></iron-icon>[[localize('action')]]</paper-button>
     </div>
 
   </template>

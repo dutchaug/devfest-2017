@@ -1,17 +1,27 @@
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__This "Don't be a jerk" policy is a shortened, casual version of the longer Code of Conduct policy.  
+[Read the full version here.](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick)__
 
-<br/>
+### In a nutshell
 
-GDGs pride themselves on being open, respectful, and inclusive communities. That means jerky behavior isn’t tolerated at meetings.
+GDGs pride themselves on being open, respectful, and inclusive communities. That means jerk behavior isn’t tolerated at meetings.
 
-Here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size or shape, showing pornographic images in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop.
+Here’s a reminder of the things we **strictly do not allow**:
 
-"Jerk behavior" may result in getting expelled from GDG chapter or meeting.
+- Jokes or offensive comments about sex, sexuality, race, religion, nationality or body size or shape;
+- Display of pornographic images in public;
+- Touching people uninvitedly;
+- Continuing to interact with someone after they’ve asked you to stop.
 
-If someone is bothering you, please tell any organizer immediately and allow them to take care of addressing it. Our goal is to make our events awesomely jerk-free!
+Violating this policy&mdash;being a jerk&mdash;may result in getting expelled from GDG chapter or meeting.
 
-<br/>
+Please join us with our goal of making our events awesome for everybody!
+
+### Reporting violations
+
+If someone is bothering you, please tell any organizer immediately and allow them to take care of addressing it. You can find contacts below, but also see the team page for all involved in the organization that can help.
 
 #### Contacts:
 
-- Paul Lammertsma, +31 6 1446 2953, [paul@dutchaug.org](mailto:paul@dutchaug.org?subject=Code of Conduct violation)
+- Paul Lammertsma  
+  <a href="tel:+31614462953">+31 6 1446 2953</a>  
+  [paul@dutchaug.org](mailto:paul@dutchaug.org?subject=Code of Conduct violation)

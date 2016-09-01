@@ -43,7 +43,7 @@
         "tabBarColor": "#fff"
       }
     },
-    "cod": {
+    "code-of-conduct": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -79,6 +79,11 @@
           "text": "df-15",
           "url": "http://2015.devfest.nl",
           "newTab": true
+        },
+        {
+          "text": "code-of-conduct",
+          "url": "/code-of-conduct",
+          "newTab": false
         }
       ]
     }

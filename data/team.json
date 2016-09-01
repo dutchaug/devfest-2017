@@ -1,172 +1,178 @@
 [
   {
-    "title": "Core Team",
+    "title": "Organizing Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Johan Pelgrim",
+        "photoUrl": "/images/people/pelgrim.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+JohanPelgrim",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/jowipe",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Website and sponsors"
-      },
-      {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
-            "name": "Google+"
-          },
-          {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/johan.pelgrim",
             "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
+          },
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
+            "link": "https://www.linkedin.com/in/johanpelgrim",
+            "name": "LinkedIn"
           },
           {
             "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
+            "link": "http://codestone.nl/",
+            "name": "Website"
           }
         ],
-        "title": "Speakers"
+        "title": ""
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Paul Lammertsma",
+        "photoUrl": "/images/people/lammertsma.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
+            "link": "https://plus.google.com/+PaulLammertsma",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
+            "link": "https://www.facebook.com/paul.lammertsma",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/p1f",
+            "link": "https://twitter.com/officesunshine",
             "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/paullammertsma",
+            "name": "LinkedIn"
           },
           {
             "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
+            "link": "http://pixplicity.com/",
+            "name": "Website"
           }
         ],
-        "title": "Sponsors"
+        "title": ""
       },
       {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "name": "Hugo Visser",
+        "photoUrl": "/images/people/visser.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
+            "link": "https://plus.google.com/+HugoVisser",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
+            "link": "https://twitter.com/botteaap",
             "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/visserh",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://littlerobots.nl/",
+            "name": "Website"
           }
         ],
-        "title": "Speakers"
+        "title": ""
       },
       {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
+        "name": "Dennis Geurts",
+        "photoUrl": "/images/people/geurts.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
+            "link": "https://plus.google.com/108236118232381198098",
             "name": "Google+"
           },
           {
+            "icon": "twitter",
+            "link": "https://twitter.com/dennisgggg",
+            "name": "Twitter"
+          },
+          {
             "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
+            "link": "https://www.facebook.com/dennis.geurts.58",
             "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/dennisgeurts",
+            "name": "LinkedIn"
           }
         ],
-        "title": "Social and media"
+        "title": ""
+      },
+      {
+        "name": "Wiebe Elsinga",
+        "photoUrl": "/images/people/elsinga.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+WiebeElsinga",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/welsinga",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/welsinga",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/welsinga",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Jairzinno Henriquez",
+        "photoUrl": "/images/people/henriquez.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JairzinnoHenriquez",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/Jairzinno",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/jairzinno",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/jairzinno-henriquez-32b6559a",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
       }
     ]
   },
@@ -174,43 +180,58 @@
     "title": "Program Committee",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Rokesh Jankie",
+        "photoUrl": "/images/people/jankie.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
+            "link": "https://plus.google.com/+RokeshJankie",
             "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
+            "link": "https://twitter.com/rjankie",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/rjankie",
+            "name": "LinkedIn"
           }
         ],
-        "title": "Android Stream"
+        "title": "Web track"
+      }
+    ]
+  },
+  {
+    "title": "Volunteers",
+    "members": [
+      {
+        "name": "Eliza Camber",
+        "photoUrl": "/images/people/camber.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+ElizaCamber",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/elizacamber",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/ElizaCamber",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/elizacamber",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
       }
     ]
   }

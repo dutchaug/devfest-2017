@@ -169,7 +169,7 @@
         width: 110px;
         height: 25px;
       }
-      
+
       .logo-msg {
         font-style: italic;
       }
@@ -180,10 +180,10 @@
                data="{{routeData}}"></app-route>
 
     <div class="container speakers-container">
-      <template is="dom-if" if="[[!speakers.length]]">
+      <template is="dom-if" if="[[!speakerCount]]">
         <div class="logo-msg">Announcing soon!</div>
       </template>
-      <template is="dom-repeat" items="[[speakers]]" as="speaker" on-dom-change="_updateCascadedNodes">
+      <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="_updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
             <a href$="/speakers/[[speaker.id]]/" class="header">
@@ -271,6 +271,10 @@
             type: Object
           },
 
+          speakerCount: {
+            type: Number
+          },
+
           _selectedSpeaker: Object,
 
           animationConfig: {
@@ -318,6 +322,7 @@
         _updateCascadedNodes: function () {
           var cascaded = Polymer.dom(this.root).querySelectorAll('[cascaded]');
           var cascadedArray = Array.prototype.slice.call(cascaded);
+          this.speakerCount = Object.keys(this.speakers).length;
           this.animationConfig.entry.push({
             name: 'cascaded-animation',
             animation: 'transform-animation',

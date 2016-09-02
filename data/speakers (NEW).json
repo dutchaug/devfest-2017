@@ -1,11 +1,11 @@
 {
-    "1": {
-        "id": 1,
+    "atamel": {
+        "id": "atamel",
         "featured": true,
         "name": "Mete Atamel",
         "title": "Developer Advocate",
         "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/google.svg",
         "country": "London, United Kingdom",
         "photoUrl": "/images/people/mete_atamel.jpg",
         "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",

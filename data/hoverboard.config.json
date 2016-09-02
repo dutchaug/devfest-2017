@@ -51,24 +51,38 @@
       }
     }
   },
-  "navigation": [
-    {
-      "route": "home",
-      "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
-    }
-  ],
+  "navigation": {
+    "tabs": [
+      {
+        "route": "home",
+        "url": "/"
+      },
+      {
+        "route": "blog",
+        "url": "/blog/"
+      },
+      {
+        "route": "schedule",
+        "url": "/schedule/"
+      },
+      {
+        "route": "team",
+        "url": "/team/"
+      }
+    ],
+    "buttons": [
+      {
+        "route": "c4p",
+        "url": "https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform",
+        "target": "_blank"
+      },
+      {
+        "route": "buy-ticket",
+        "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
+        "target": "_blank"
+      }
+    ]
+  },
   "url": "https://devfest.nl/",
   "mailchimp": {
     "url": "https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5",

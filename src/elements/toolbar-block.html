@@ -92,16 +92,18 @@
       <div class="navItem" layout horizontal self-end>
         <template is="dom-if" if="[[!app.isPhoneSize]]">
           <paper-tabs selected="[[app.page]]" attr-for-selected="name" noink>
-            <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
+            <template is="dom-repeat" items="[[app.data.navigation.tabs]]" as="nav">
               <paper-tab name="[[nav.route]]" link>
-                <a href$="[[nav.permalink]]" class="nav-link">{{localize(nav.route)}}</a>
+                <a href$="[[nav.url]]" class="nav-link">[[localize(nav.route)]]</a>
               </paper-tab>
             </template>
           </paper-tabs>
           <div class="action-button-wrapper" layout horizontal center-center>
-            <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-              <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
-            </a>
+            <template is="dom-repeat" items="[[app.data.navigation.buttons]]" as="nav">
+              <a href$="[[nav.url]]" target="[[nav.target]]" rel="noopener noreferrer" on-tap="_trackBuyClick">
+                <paper-button class="action-button">[[localize(nav.route)]]</paper-button>
+              </a>
+            </template>
           </div>
         </template>
       </div>

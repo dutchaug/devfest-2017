@@ -97,15 +97,17 @@
         selected="{{pageData.page}}"
         selected-class="selected"
       >
-        <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
+        <template is="dom-repeat" items="[[app.data.navigation.tabs]]" as="nav">
           <a class="navigation-link" name="[[nav.route]]" href$="[[nav.permalink]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
         </template>
-        <a class="navigation-link" href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize('buy-ticket')]]
-          <iron-icon
-            class="open-in-new"
-            icon="open-in-new"
-          ></iron-icon>
-        </a>
+        <template is="dom-repeat" items="[[app.data.navigation.buttons]]" as="nav">
+          <a class="navigation-link" href$="[[nav.url]]" target="[[nav.target]]" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize(nav.route)]]
+            <template is="dom-if" if="[[nav.target]]" as="nav"><iron-icon
+              class="open-in-new"
+              icon="open-in-new"
+            ></iron-icon></template>
+          </a>
+        </template>
       </paper-menu>
     </nav>
 

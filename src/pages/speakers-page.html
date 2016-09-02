@@ -169,6 +169,10 @@
         width: 110px;
         height: 25px;
       }
+      
+      .logo-msg {
+        font-style: italic;
+      }
     </style>
 
     <app-route route="{{route}}"
@@ -176,7 +180,10 @@
                data="{{routeData}}"></app-route>
 
     <div class="container speakers-container">
-      <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="_updateCascadedNodes">
+      <template is="dom-if" if="[[!speakers.length]]">
+        <div class="logo-msg">Announcing soon!</div>
+      </template>
+      <template is="dom-repeat" items="[[speakers]]" as="speaker" on-dom-change="_updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
             <a href$="/speakers/[[speaker.id]]/" class="header">

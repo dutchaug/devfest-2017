@@ -58,6 +58,11 @@
         height: 60px;
         width: 140px;
       }
+      .placeholder-img {
+        @apply(--layout-flex);
+        height: 30px;
+        width: 144px;
+      }
       .logo-img.info {
         height: 45px;
         width: 100px;
@@ -86,7 +91,10 @@
               </a>
             </template>
             <template is="dom-if" if="[[!block.logos.length]]">
-              <div class="logo-msg">Announcing soon!</div>
+              <div class="logo-msg"><iron-image
+                  class$="placeholder-img [[block.logosClass]]"
+                  src="/images/logos/yourlogohere.png"
+                  sizing="contain"></iron-image></div>
             </template> 
           </div>
         </div>

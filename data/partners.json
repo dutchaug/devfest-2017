@@ -32,8 +32,14 @@
     ]
   },
   {
-    "title": "media-partner",
+    "title": "support-sponsor",
     "logos": [
+      {
+        "name": "Minor Programmeren",
+        "url": "http://www.mprog.nl/",
+        "logoUrl": "../images/logos/minor-programmeren.png",
+        "width": 100
+      },
       {
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",

@@ -90,8 +90,7 @@
         horizontal-align="right"
         ignore-select
         allow-outside-scroll
-        opened="{{_filtersOpened}}"
-      >
+        opened="{{_filtersOpened}}">
         <paper-button class="dropdown-trigger">
           [[localize('filter')]]
           <iron-icon class="filter-icon" icon="filter-list"></iron-icon>
@@ -101,14 +100,12 @@
           class="filters-content dropdown-content"
           attr-for-selected="value"
           selected-values="{{filters}}"
-          multi
-        >
-          <template is="dom-repeat" items="[[schedule.tags]]" as="tag">
+          multi>
+          <template is="dom-repeat" items="[[schedule.allTags]]" as="tag">
             <paper-checkbox
               value="[[tag]]"
               checked="{{_isChecked(tag)}}"
-              layout horizontal center flex
-            >
+              layout horizontal center flex>
               [[tag]]
             </paper-checkbox>
           </template>

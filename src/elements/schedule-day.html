@@ -301,7 +301,15 @@
           var filters = this.filters || [];
           if (!filters.length) return false;
           return function (session) {
-            return filters.indexOf(session.mainTag) > -1;
+            if (filters.indexOf(session.mainTag) > -1) {
+              return true;
+            }
+            for (var j = 0, tagCount = session.tags ? session.tags.length : 0; j < tagCount; j++) {
+              if (filters.indexOf(session.tags[j]) > -1) {
+                return true;
+              }
+            }
+            return false;
           };
         }
 

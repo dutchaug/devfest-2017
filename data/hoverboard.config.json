@@ -62,10 +62,6 @@
         "url": "/blog/"
       },
       {
-        "route": "schedule",
-        "url": "/schedule/"
-      },
-      {
         "route": "team",
         "url": "/team/"
       }

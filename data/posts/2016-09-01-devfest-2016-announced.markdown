@@ -2,12 +2,12 @@ We're are proud to announce the fifth annual GDG DevFest 2016&mdash;the biggest 
 
 ### What to expect
 
-* In 2015 the conference was visited by almost **500 attendees and 20 speakers from all over the world**. This year you can again expect stellar speakers from game-changers like Google, Bol.com, ING, and [Google Developer Experts](https://developers.google.com/experts/about)!
-* Every year more than 80% of our participants are **experienced developers**. DevFest NL will as always be highly technical without any marketing nonsense.
-* Three parallel lecture tracks dedicated to **Android**, **Web** & **Cloud** technologies.
-* **Expanded workshop area** where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
+* In 2015 the conference was visited by **430 attendees and 20 speakers from all over the world** and we are aiming to bring you an exciting and interesting programme this year again!
+* Every year more than 80% of our participants are **experienced developers**. DevFest NL will as always be highly technical for both beginners and seasoned developers.
+* Three parallel lecture tracks dedicated to **Mobile**, **Web** & **Cloud** technologies.
+* Workshops where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
 
-So hurry up and snag your tickets! You’ll be guaranteed to become inspired and enjoy yourself in the company of coders, hackers, geeks and experts of our industry.
+You’ll be guaranteed to become inspired and enjoy yourself in the company of coders, hackers, geeks and experts of our industry.
 
 Watch our [**highlight video from GDG DevFest NL 2015**](https://www.youtube.com/watch?v=JiLYsYvCs-A):
 
@@ -27,7 +27,7 @@ We're pleased to announce that our [call for papers](https://docs.google.com/a/d
 
 You can find information about registration, speakers, tickets and other latest news on the [conference website](https://devfest.nl/), [Twitter](https://twitter.com/devfestnl), [Facebook](https://www.facebook.com/groups/dutchaug/) or [Google+](https://plus.google.com/113182948271879290904).
 
-[Subscribe to the newsletter](https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5) to make sure you don’t miss any updates, expecially if you're still trying to snag your free ticket!
+[Subscribe to the newsletter](https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5) to make sure you don’t miss any updates, especially to be the first to hear about our upcoming batch of tickets?
 
 <br/>
 

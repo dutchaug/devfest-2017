@@ -173,34 +173,30 @@
           }
         ],
         "title": ""
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Rokesh Jankie",
-        "photoUrl": "/images/people/jankie.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+RokeshJankie",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/rjankie",
-            "name": "Twitter"
-          },
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/rjankie",
-            "name": "LinkedIn"
-          }
-        ],
-        "title": "Web track"
-      }
+      },
+        {
+            "name": "Rokesh Jankie",
+            "photoUrl": "/images/people/jankie.jpg",
+            "socials": [
+                {
+                    "icon": "gplus",
+                    "link": "https://plus.google.com/+RokeshJankie",
+                    "name": "Google+"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/rjankie",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/rjankie",
+                    "name": "LinkedIn"
+                }
+            ],
+            "title": ""
+        }
+
     ]
   }
 ]

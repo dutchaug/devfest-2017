@@ -39,12 +39,6 @@
         "url": "http://www.mprog.nl/",
         "logoUrl": "../images/logos/minor-programmeren.png",
         "width": 100
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg",
-        "width": 100
       }
     ]
   }

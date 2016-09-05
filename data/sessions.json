@@ -2,7 +2,7 @@
     "registration": {
         "id": "registration",
         "title": "Registration & morning coffee",
-        "description": "Get your badge and goodie bag, then chat a bit with other technophiles over coffee or tea!",
+        "description": "Get your badge and enjoy some coffee or tea.",
         "image": "/images/backgrounds/registration.jpg",
         "track": {
             "title":"Foyer"

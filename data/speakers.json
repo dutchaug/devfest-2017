@@ -1,1 +1,134 @@
-{}
+[{
+    "id" : 0,
+    "name" : "Tracy Lee",
+    "bio" : "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools. She helps organize various events in the JS community such as Global Ember Meetup, track chair for QConSF, ng-cruise, and empowers large teams with mentorship through EmberSherpa. You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet.",
+    "company" : "Modern Web",
+    "country" : "USA",
+    "photoUrl" : "../images/people/tracylee.jpg",
+    "tags" : [
+        "Firebase",
+        "Angular"
+    ],
+    "shortBio" : "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools. She helps organize various events in the JS community such as Global Ember Meetup, track chair for QConSF, ng-cruise, and empowers large teams with mentorship through EmberSherpa. You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet.",
+    "socials" : [        
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/ladyleet"
+        },
+        {
+            "icon" : "facebook",
+            "link" : "https://www.facebook.com/ladyleet"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/ladyleet"
+        } 
+    ]
+},
+{
+    "id" : 1,
+    "name" : "Johan Stokking",
+    "bio" : "Johan is a tech entrepreneur from Amsterdam, The Netherlands. Expertise in event-driven architectures and real-time data processing is applied in products and services in professional sports timing as well as The Things Network that deploys an open, crowd sourced, community-driven, decentralized internet of things data network. This talk will about The Things Network: its foundation, open source vision, technology and why and how we use Golang as our primary language.",
+    "company" : "The Things Network",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/JohanStokking.jpg",
+    "tags" : [
+        "Go",
+        "Brillo",
+        "Weave"
+    ],
+    "shortBio" : "Johan is a tech entrepreneur from Amsterdam, The Netherlands. Expertise in event-driven architectures and real-time data processing is applied in products and services in professional sports timing as well as The Things Network that deploys an open, crowd sourced, community-driven, decentralized internet of things data network. This talk will about The Things Network: its foundation, open source vision, technology and why and how we use Golang as our primary language.",
+    "socials" : [        
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/johanstokking"
+        },
+        {
+            "icon" : "facebook",
+            "link" : "https://www.facebook.com/johanstokking"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/johanstokking"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://nl.linkedin.com/in/johanstokking"
+        }  
+    ],
+    "sessions" : [{
+        "id" : "3",
+        "title" : "Go-ing Forward with The Things Network",
+        "description" : "One year after we launched The Things Network, it has been picked up by more than 250 communities around the world. In this talk, I'll go a bit deeper into specific Go techniques we use to run the system, as well as upstream integrations with Brillo and Weave.",
+        "tags" : [
+            "Go",
+            "Brillo",
+            "Weave"
+        ]
+    }]
+},
+{
+    "id" : 2,
+    "name" : "Abraham Haskins",
+    "bio" : "I'm an engineer for Firebase at Google and has been a Firebase developer for a long time. Prior to joining the team at Google I ran a Firebase-focused consulting company. I spend my days working with people who build great things on Firebase and building open-source Firebase tooling to help them.",
+    "company" : "Google",
+    "country" : "US",
+    "photoUrl" : "../images/people/abrahamhaskins.jpg",
+    "tags" : [
+        "Firebase"
+    ],
+    "shortBio" : "I'm an engineer for Firebase at Google and has been a Firebase developer for a long time. Prior to joining the team at Google I ran a Firebase-focused consulting company. I spend my days working with people who build great things on Firebase and building open-source Firebase tooling to help them.",
+    "socials" : [ 
+        {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/114144940760991454652"
+        },       
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/abeisgreat"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/abehaskins"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://www.linkedin.com/in/abe-haskins-1a267a13"
+        }  
+    ]
+},
+{
+    "id" : 3,
+    "name" : "Dylan Drost",
+    "bio" : "Android Developer for 4,5 years. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental health institutions. I work on the Android app and helped build the REST Api for the platform. Before I joined Karify I worked at Pixplicity on different large and small App projects. Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife",
+    "company" : "Karify",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/DylanDrost.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Android"
+    ],
+    "shortBio" : "Android Developer for 4,5 years. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental health institutions. I work on the Android app and helped build the REST Api for the platform. Before I joined Karify I worked at Pixplicity on different large and small App projects. Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife.",
+    "socials" : [
+        {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/u/1/+DylanDrost"
+        },
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/aegis321"
+        },
+        {
+            "icon" : "facebook",
+            "link" : "https://www.facebook.com/dylan.drost"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/aegis123"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://nl.linkedin.com/in/dylandrost"
+        }   
+    ]
+}]

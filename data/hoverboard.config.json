@@ -58,6 +58,10 @@
         "url": "/"
       },
       {
+        "route": "speakers",
+        "url": "/speakers"
+      },      
+      {
         "route": "blog",
         "url": "/blog/"
       },

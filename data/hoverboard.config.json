@@ -72,11 +72,6 @@
     ],
     "buttons": [
       {
-        "route": "c4p",
-        "url": "https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform",
-        "target": "_blank"
-      },
-      {
         "route": "buy-ticket",
         "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
         "target": "_blank"

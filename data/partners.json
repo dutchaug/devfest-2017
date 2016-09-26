@@ -48,6 +48,13 @@
         "logoUrl": "../images/logos/jdriven.svg",
         "width": 340,
         "height": 136
+      },
+      {
+        "name": "Qualogy",
+        "url": "http://www.werkenbijqualogy.com/",
+        "logoUrl": "../images/logos/qualogy300.jpg",
+        "width": 340,
+        "height": 136
       }
     ]
   },

@@ -4,10 +4,10 @@
     "bio" : "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools. She helps organize various events in the JS community such as Global Ember Meetup, track chair for QConSF, ng-cruise, and empowers large teams with mentorship through EmberSherpa. You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet.",
     "company" : "Modern Web",
     "country" : "USA",
-    "photoUrl" : "../images/people/tracylee.jpg",
+    "photoUrl" : "../images/people/_tracylee.png",
     "tags" : [
         "Firebase",
-        "Angular"
+        "AngularJS"
     ],
     "shortBio" : "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools. She helps organize various events in the JS community such as Global Ember Meetup, track chair for QConSF, ng-cruise, and empowers large teams with mentorship through EmberSherpa. You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet.",
     "socials" : [        
@@ -130,5 +130,64 @@
             "icon" : "linkedin",
             "link" : "https://nl.linkedin.com/in/dylandrost"
         }   
+    ]
+},
+{
+    "id" : 4,
+    "name" : "Mete Atamel",
+    "bio" : "I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. Prior to Google, I worked as a Software Engineer at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services using various web, mobile and cloud technologies.",
+    "company" : "Google",
+    "country" : "United Kingdom",
+    "photoUrl" : "../images/people/mete_atamel.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "App Engine",
+        "Compute Engine",
+        "Drive"
+    ],
+    "shortBio" : "I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. Prior to Google, I worked as a Software Engineer at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services using various web, mobile and cloud technologies.",
+    "socials" : [
+        {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/+MeteAtamel"
+        },
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/meteatamel"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://www.linkedin.com/in/meteatamel"
+        }  
+    ]
+},
+{
+    "id" : 5,
+    "name" : "Maurice de Beijer",
+    "bio" : "Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, AngularJS and ASP.NET MVC. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, Angular JS and ASP.NET MVC courses. Since 2005, he has received Microsoft’s Yearly Most Valuable Professional Award. Further, Maurice is active in the Dutch dotNED user group and helps organize its meetings",
+    "company" : "The Problem Solver",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/mauricedebeijer.jpeg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "AngularJS",
+        "Dart",
+        "Go",
+        "Polymer"
+    ],
+    "shortBio" : "Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, AngularJS and ASP.NET MVC. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, Angular JS and ASP.NET MVC courses. Since 2005, he has received Microsoft’s Yearly Most Valuable Professional Award. Further, Maurice is active in the Dutch dotNED user group and helps organize its meetings",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/MauriceDB"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/mauricedb"
+        },
+        {
+            "icon" : "public",
+            "link" : "https://github.com/mauricedb"
+        }  
     ]
 }]

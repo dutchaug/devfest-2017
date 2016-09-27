@@ -66,6 +66,13 @@
         "logoUrl": "../images/logos/m2mobi.svg",
         "width": 250,
         "height": 100
+      },
+      {
+        "name": "Us Media",
+        "url": "http://www.usmedia.nl/",
+        "logoUrl": "../images/logos/UsMedia200.png",
+        "width": 200,
+        "height": 80
       }
     ]
   },

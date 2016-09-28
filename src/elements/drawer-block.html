@@ -98,7 +98,7 @@
         selected-class="selected"
       >
         <template is="dom-repeat" items="[[app.data.navigation.tabs]]" as="nav">
-          <a class="navigation-link" name="[[nav.route]]" href$="[[nav.permalink]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
+          <a class="navigation-link" name="[[nav.route]]" href$="[[nav.url]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
         </template>
         <template is="dom-repeat" items="[[app.data.navigation.buttons]]" as="nav">
           <a class="navigation-link" href$="[[nav.url]]" target="[[nav.target]]" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize(nav.route)]]

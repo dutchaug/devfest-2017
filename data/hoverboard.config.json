@@ -59,11 +59,11 @@
       },
       {
         "route": "speakers",
-        "url": "/speakers"
+        "url": "/speakers/"
       }, 
       {
         "route": "schedule",
-        "url": "/schedule"
+        "url": "/schedule/"
       },      
       {
         "route": "blog",

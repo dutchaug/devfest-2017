@@ -68,10 +68,10 @@
 },
 {
     "id" : 2,
-    "name" : "Abraham Haskins",
+    "name" : "Abe Haskins",
     "bio" : "I'm an engineer for Firebase at Google and has been a Firebase developer for a long time. Prior to joining the team at Google I ran a Firebase-focused consulting company. I spend my days working with people who build great things on Firebase and building open-source Firebase tooling to help them.",
     "company" : "Google",
-    "country" : "US",
+    "country" : "USA",
     "photoUrl" : "../images/people/abrahamhaskins.jpg",
     "tags" : [
         "Firebase"
@@ -183,5 +183,217 @@
             "icon" : "public",
             "link" : "https://github.com/mauricedb"
         }  
+    ]
+},
+{
+    "id" : 6,
+    "name" : "Thijs Suijten",
+    "bio" : "I’m a mobile engineer at Q42. When I started playing with Kotlin I immediately fell in love. I started advocating Kotlin at Q42 and gradually migrated the existing PostNL app (premier provider of postal and parcel services in the Netherlands) to Kotlin. Currently I’m working on both the Android and iOS (Swift) app for PostNL.",
+    "company" : "Q42",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/thijssuijten.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Android"
+    ],
+    "shortBio" : "I’m a mobile engineer at Q42. When I started playing with Kotlin I immediately fell in love. I started advocating Kotlin at Q42 and gradually migrated the existing PostNL app (premier provider of postal and parcel services in the Netherlands) to Kotlin. Currently I’m working on both the Android and iOS (Swift) app for PostNL.",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/tsuijten"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://www.linkedin.com/in/tsuijten"
+        }
+    ]
+},
+{
+    "id" : 7,
+    "name" : "Sebastian Witalec",
+    "bio" : "Sebastian Witalec is a Technical Evangelist for Progress/Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team). He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).",
+    "company" : "Progress/Telerik",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/sebastianwitalec.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "NativeScript"
+    ],
+    "shortBio" : "Sebastian Witalec is a Technical Evangelist for Progress/Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies.",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/sebawita"
+        }
+    ]
+},
+{
+    "id" : 8,
+    "name" : "Eliza Camberogiannis",
+    "bio" : "Eliza is an Android developer at Pixplicity and a student at the Faculty of Automation and Robotics Engineering in Thessaloniki. . Her big passion is to explore and play with new technologies while she enjoys travelling, and attending conferences and meetups",
+    "company" : "Pixplicity",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/camber.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Android"
+    ],
+    "shortBio" : "Eliza is an Android developer at Pixplicity and a student at the Faculty of Automation and Robotics Engineering in Thessaloniki. . Her big passion is to explore and play with new technologies while she enjoys travelling, and attending conferences and meetups",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/elizacamber"
+        }
+    ]
+},
+{
+    "id" : 9,
+    "name" : "Kristin Rieping",
+    "bio" : "I've finished my Master in Artificial Intelligence at the UVA some years ago and now I'm a software developer at Q42 working on the Cloud Solution of the Philips Hue Platform. I am actively trying to get more women into tech with GirlCode which is an initiative from women for women where they can learn cool, new tech-things.",
+    "company" : "Q42",
+    "country" : "The Netherlands",
+
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Kubernetes"
+    ],
+    "shortBio" : "I've finished my Master in Artificial Intelligence at the UVA some years ago and now I'm a software developer at Q42 working on the Cloud Solution of the Philips Hue Platform. I am actively trying to get more women into tech with GirlCode which is an initiative from women for women where they can learn cool, new tech-things."
+},
+{
+    "id" : 10,
+    "name" : "Jeroen Visser",
+    "bio" : "Jeroen is the CTO at Uberous, where he's currently working to improve things in the eCommerce industry. Prior to founding Uberous, he worked at various other e-commerce related companies including Lightspeed and SEOshop. He started programming while on primary school and transformed his hobby into his professional career. His main interests today are security, eCommerce, Ruby, Elixir, Kubernetes, and Deis.",
+    "company" : "Uberous",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/JeroenVisser.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Kubernetes"
+    ],
+    "shortBio" : "Jeroen is the CTO at Uberous, where he's currently working to improve things in the eCommerce industry. Prior to founding Uberous, he worked at various other e-commerce related companies including Lightspeed and SEOshop. He started programming while on primary school and transformed his hobby into his professional career. His main interests today are security, eCommerce, Ruby, Elixir, Kubernetes, and Deis.",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/jeroenvisser101"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/jeroenvisser101"
+        } 
+    ]
+},
+{
+    "id" : 11,
+    "name" : "Stefan Hogendoorn",
+    "bio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform, and developed many small and large business apps. Furthermore, he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense. <br>Stefan is one of the two owners of Qlouder (2012). Qlouder is a Google Cloud Platform partner and aims to deliver continuous value to organizations. This value can be defined in many ways, for example incremental improvements to existing products, the creation of entirely new products and services, or reducing costs by means of Google Apps for Work, the Google Cloud Platform and custom-build applications. Qlouder advises, builds, implements and offers support.",
+    "company" : "Qlouder",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/stefanhogendoorn copy.png",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Firebase"
+    ],
+    "shortBio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company."
+},
+{
+    "id" : 12,
+    "name" : "Rokesh Jankie",
+    "bio" : "Google enthusiast/believer since 2004 (launch of Gmail) and GDG lead for GDG Cloud Netherlands and GDG Netherlands(Web). Professionally, As CTO/Head of R&D of IT service provider Qualogy, Rokesh brings innovation and new technologies to the boardroom. From 2007 Rokesh and his team developed an advanced solutions for modernizing Oracle legacy applications to new architectures(QAFE). At this moment Rokesh teams are diving into Machine Learning, Machine Intelligence, Google Cloud Platform (data products like DataFlow, DataProc, BigQuery) Hadoop, Spark, etc. Cloud topics in general (like Docker, Kubernetes) and Web development topics (Polymer Web Components, Progressive Web). Rokesh is also responsible for the business fellow relationship between Qualogy and LIACS (Leiden Institute of Advanced Computer Science, part of Leiden University). This partnership focuses on Data Science research and how to apply Data Science techniques within organisations.",
+    "company" : "Qualogy",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/RokeshJankie.png",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Tensorflow"
+    ],
+    "shortBio" : "Google enthusiast/believer since 2004 (launch of Gmail) and GDG lead for GDG Cloud Netherlands and GDG Netherlands(Web). Professionally, As CTO/Head of R&D of IT service provider Qualogy, Rokesh brings innovation and new technologies to the boardroom.",
+    "socials" : [
+        {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/+RokeshJankie"
+        },
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/rjankie"
+        }
+    ]
+},
+{
+    "id" : 13,
+    "name" : "Bas Knopper",
+    "bio" : "",
+    "company" : "JDriven",
+    "country" : "The Netherlands",
+    "photoUrl" : "../images/people/basknopper.jpeg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Android"
+    ],
+    "shortBio" : ""
+},
+{
+    "id" : 14,
+    "name" : "Ernest Micklei",
+    "bio" : "Software Architect, Open-source Contributor, Long time Gopher, Javanian and Smalltalker",
+    "company" : "Bol.com",
+    "country" : "The Netherlands",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Go"
+    ],
+    "shortBio" : "Software Architect, Open-source Contributor, Long time Gopher, Javanian and Smalltalker"
+},
+{
+    "id" : 15,
+    "name" : "Stefan Judis",
+    "bio" : "Stefan started programming 6 years ago and quickly fell in love with web performance, new technologies and automation. He worked for several startups in Berlin and recently joined Contentful to to tell the world how an API-first CMS can make you a bit happier. He is also a curator of the web performance online resource Perf Tooling (perf-tooling.today), organizer of the Web Performance Meetup Berlin, contributes constantly to a variety of open source projects and enjoys sharing nerdy discoveries.",
+    "company" : "Contentful",
+    "country" : "Germany",
+    "photoUrl" : "../images/people/stefanjudis.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "AMP"
+    ],
+    "shortBio" : "Stefan started programming 6 years ago and quickly fell in love with web performance, new technologies and automation. He worked for several startups in Berlin and recently joined Contentful to to tell the world how an API-first CMS can make you a bit happier. He is also a curator of the web performance online resource Perf Tooling (perf-tooling.today), organizer of the Web Performance Meetup Berlin, contributes constantly to a variety of open source projects and enjoys sharing nerdy discoveries.",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/stefanjudis"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/stefanjudis"
+        } 
+    ]
+},
+{
+    "id" : 16,
+    "name" : "Tomas Kypta",
+    "bio" : "Android developer. Architect of apps, libraries and SDKs at Avast. Pusher of good coding and testing practices.",
+    "company" : "Avast",
+    "country" : "Czech Republic",
+    "photoUrl" : "../images/people/tomkypta.jpg",
+    "image" : "logo-light.svg",
+    "tags" : [
+        "Android"
+    ],
+    "shortBio" : "Android developer. Architect of apps, libraries and SDKs at Avast. Pusher of good coding and testing practices.",
+    "socials" : [
+        {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/115124023401516323898/"
+        },
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/TomasKypta"
+        },
+        {
+            "icon" : "linkedin",
+            "link" : "https://www.linkedin.com/in/TomasKypta"
+        },
+        {
+            "icon" : "github",
+            "link" : "https://github.com/TomasKypta"
+        } 
     ]
 }]

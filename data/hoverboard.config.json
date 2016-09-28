@@ -60,6 +60,10 @@
       {
         "route": "speakers",
         "url": "/speakers"
+      }, 
+      {
+        "route": "schedule",
+        "url": "/schedule"
       },      
       {
         "route": "blog",

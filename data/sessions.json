@@ -5,7 +5,7 @@
         "description": "Get your badge and enjoy some coffee or tea.",
         "image": "/images/backgrounds/registration.jpg",
         "track": {
-            "title":"Foyer"
+            "title": "Foyer"
         }
     },
     "opening": {
@@ -14,14 +14,13 @@
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
         "image": "/images/backgrounds/opening.jpg"
     },
-
     "lunch": {
         "id": "lunch",
         "title": "Lunch",
         "description": "A one hour break for lunch and networking.",
         "image": "/images/backgrounds/lunch.jpg",
         "track": {
-            "title":"Foyer"
+            "title": "Foyer"
         }
     },
     "break": {
@@ -30,7 +29,7 @@
         "description": "An afternoon break for sponsor pitches and chatting.",
         "image": "/images/backgrounds/coffee-break.jpg",
         "track": {
-            "title":"Foyer"
+            "title": "Foyer"
         }
     },
     "party": {
@@ -39,10 +38,9 @@
         "description": "The after party is a great time to have fun and meet new people!",
         "image": "/images/backgrounds/party.jpg",
         "track": {
-            "title":"Café Oerknal"
+            "title": "Café Oerknal"
         }
     },
-
     "android_0": {
         "id": "android_0",
         "title": "Use code ​generation to make better apps",
@@ -74,9 +72,7 @@
         "tags": [
             "Android"
         ],
-        "speakers": [
-            
-        ],
+        "speakers": [],
         "complexity": "Beginner"
     },
     "android_4": {
@@ -261,5 +257,15 @@
             "15"
         ],
         "complexity": "Beginner"
-    }   
+    },
+    "health_1": {
+        "id": "health_1",
+        "title": "Healthy Minds in a Healthy Community",
+        "description": "Open source communities attract and boast passionate, idealistic people, and many of us invest copious amounts of time and effort to contribute to our projects and support our communities. This underlying emotional attachment can make us more vulnerable to elevated stress, burnout and conflicts. And then there are those of us who also manage mental illness.\n\nMore often than not, we suffer these struggles in silence, feeling (and fearing) that we’re alone in our trouble. Here, our communities can make a huge difference, by building a positive and safe environment where we can blossom and support ourselves and our peers, and feel included.\n\nThis talk will take a look at open-source communities through the eyes of various mental well-being issues and struggles, show various things that some communities already do. We will also cover several new initiatives from the community around Django, a common open-source web framework for Python, to further promote the well-being of our community members. This will hopefully inspire more communities to help foster healthy minds in a healthy environment.",
+        "tags": ["community", "health"],
+        "speakers": [
+            "17"
+        ],
+        "complexity": "Everyone"
+    }
 }

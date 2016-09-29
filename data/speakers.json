@@ -252,7 +252,7 @@
     "bio" : "I've finished my Master in Artificial Intelligence at the UVA some years ago and now I'm a software developer at Q42 working on the Cloud Solution of the Philips Hue Platform. I am actively trying to get more women into tech with GirlCode which is an initiative from women for women where they can learn cool, new tech-things.",
     "company" : "Q42",
     "country" : "The Netherlands",
-
+    "photoUrl" : "../images/people/kristin_q42.jpg",
     "image" : "logo-light.svg",
     "tags" : [
         "Kubernetes"

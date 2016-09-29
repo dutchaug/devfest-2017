@@ -17,7 +17,7 @@
     "lunch": {
         "id": "lunch",
         "title": "Lunch",
-        "description": "Some time to grab a drink and make some new friends.",
+        "description": "A one hour break for lunch and networking.",
         "image": "/images/backgrounds/lunch.jpg",
         "track": {
             "title": "Foyer"

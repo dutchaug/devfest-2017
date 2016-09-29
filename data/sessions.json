@@ -17,7 +17,7 @@
     "lunch": {
         "id": "lunch",
         "title": "Lunch",
-        "description": "A one hour break for lunch and networking.",
+        "description": "Some time to grab a drink and make some new friends.",
         "image": "/images/backgrounds/lunch.jpg",
         "track": {
             "title": "Foyer"
@@ -67,12 +67,12 @@
     },
     "android_2": {
         "id": "android_2",
-        "title": "Triple IT",
-        "description": "Stay tuned for updates on the schedule.",
+        "title": "Developers and Designers",
+        "description": "The collaboration process between developers and designers has always had a large impact on the overall success of a project. Over the last few years however, there have been many improvements in this area. More than ever, designers can express themselves in interactive prototypes and intricate design patterns. On the other hand, the mobile platform makers have given developers more and better tools to create mobile apps which fit well within the ecosystem such as Material Design. By letting design and development use the same tooling (GIT, Sketch and code) we’ve been trying to make our workflow more efficient. During this talk I will discuss the tools and workflows that we (try to) use at Triple to keep both developers and designers happy. ",
         "tags": [
             "Android"
         ],
-        "speakers": [],
+        "speakers": ["18"],
         "complexity": "Beginner"
     },
     "android_4": {

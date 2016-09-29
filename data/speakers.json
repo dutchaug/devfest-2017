@@ -423,4 +423,26 @@
             "link": "https://github.com/erikr"
         }
     ]
+},{
+    "id": 18,
+    "name": "Jordi Bruin",
+    "bio": "Jordi is a concept and innovation developer at Triple. When he isn’t helping clients deliver user friendly and innovative experiences, he’s working on improving the collaboration between designers and developers. Over the past year he has started learning Swift and recently installed Android Studio. His goal for 2016 is to understand how branches work in GIT.",
+    "company": "Triple",
+    "country": "The Netherlands",
+    "photoUrl": "../images/people/jordibruin.jpg",
+    "image": "logo-light.svg",
+    "tags": [
+        "Design"
+    ],
+    "shortBio": "Jordi is a concept and innovation developer at Triple. When he isn’t helping clients deliver user friendly and innovative experiences, he’s working on improving the collaboration between designers and developers. Over the past year he has started learning Swift and recently installed Android Studio. His goal for 2016 is to understand how branches work in GIT.",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/jordibruin"
+        },
+        {
+            "icon": "website",
+            "link": "http://www.wearetriple.com"
+        }
+    ]
 }]

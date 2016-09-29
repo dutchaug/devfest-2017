@@ -266,7 +266,17 @@
     "tags" : [
         "Kubernetes"
     ],
-    "shortBio" : "I've finished my Master in Artificial Intelligence at the UVA some years ago and now I'm a software developer at Q42 working on the Cloud Solution of the Philips Hue Platform. I am actively trying to get more women into tech with GirlCode which is an initiative from women for women where they can learn cool, new tech-things."
+    "shortBio" : "I've finished my Master in Artificial Intelligence at the UVA some years ago and now I'm a software developer at Q42 working on the Cloud Solution of the Philips Hue Platform. I am actively trying to get more women into tech with GirlCode which is an initiative from women for women where they can learn cool, new tech-things.",
+    "socials" : [
+        {
+            "icon" : "github",
+            "link" : "https://github.com/qristin"
+        },        
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/kristin-rieping-a3691013"
+        }
+    ]
 },
 {
     "id" : 10,
@@ -306,7 +316,17 @@
     "tags" : [
         "Firebase"
     ],
-    "shortBio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company."
+    "shortBio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company.",
+    "socials" : [
+        {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/shogendoorn"
+        },        
+        {
+            "icon": "linkedin",
+            "link": "https://nl.linkedin.com/in/stefanhogendoorn"
+        }
+    ]
 },
 {
     "id" : 12,

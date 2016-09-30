@@ -1,6 +1,6 @@
 [{
     "date": "2016-10-08",
-    "dateReadable": "October 8",
+    "dateReadable": "Sessions",
     "tracks": [{
         "title": "Catwoman"
     }, {
@@ -81,6 +81,59 @@
             ["android_5"],
             ["cloud_5"],
             ["web_5"]
+        ]
+    },{
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "sessions": [
+            ["party"]
+        ]
+    }]
+},
+{
+    "date": "2016-10-08",
+    "dateReadable": "Workshops",
+    "tracks": [{
+        "title": "Workshop room 1"
+    }, {
+        "title": "Workshop room 2"
+    }],
+    "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "sessions": [
+            ["registration"]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "10:20",
+        "sessions": [
+            ["opening"]
+        ]
+    }, {
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "sessions": [
+            ["workshop_0"]
+        ]
+    }, {
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "sessions": [
+            ["lunch"]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "sessions": [
+            ["workshop_1"],
+            ["workshop_2"]
+        ]
+    }, {
+        "startTime": "14:30",
+        "endTime": "15:20",
+        "sessions": [
+            ["break"]
         ]
     },{
         "startTime": "17:00",

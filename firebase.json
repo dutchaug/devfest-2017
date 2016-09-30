@@ -16,27 +16,26 @@
       "database.rules.json",
       "firebase.json",
       "README.md"
-    ]
-  },
+    ],
     "headers": [
-        {
-            "source": "scripts/helper/util/service-worker-registration.js",
-            "headers": [
-                {
-                    "key": "Cache-Control",
-                    "value": "no-cache"
-                }
-            ]
-        },
-        {
-            "source": "service-worker.js",
-            "headers": [
-                {
-                    "key": "Cache-Control",
-                    "value": "no-cache"
-                }
-            ]
-        }
-
+      {
+        "source": "scripts/helper/util/service-worker-registration.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
+      },
+      {
+        "source": "service-worker.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
+      }
     ]
+  }
 }

@@ -488,4 +488,40 @@
             "link": "http://www.wearetriple.com"
         }
     ]
+},
+{
+    "id": 19,
+    "name": "Adolfo Benedetti",
+    "bio": "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, I was exploring the IoT/Web of Things co-founding 30MHz, now working at Finalist.nl. Also an active member of The Google Developer Groups Netherlands.",
+    "company": "Finalist.nl",
+    "country": "The Netherlands",
+
+    "image": "logo-light.svg",
+    "tags": [
+        "PWA"
+    ],
+    "shortBio": "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, I was exploring the IoT/Web of Things co-founding 30MHz, now working at Finalist.nl. Also an active member of The Google Developer Groups Netherlands.",
+    "socials": [
+        {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+AdolfoBenedetti"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/adben"
+        }
+    ]
+},
+{
+    "id": 20,
+    "name": "The Appie Team",
+    "bio": "Reiner, Jacob and Johan are part of the Android Appie team at Ahold IT Online. Vince has recently switched to a project at ING, but still has a lot of knowledge about the test setup for the Appie project and we’re happy that Vince joined the team once more, just for this workshop. In the past years Ahold IT Online has invested heavily in setting up unit-, Espresso and UI integration tests in the Appie project. The app is automatically tested on the most boring parts so that the developers and the testers can focus on other things.",
+    "company": "Albert Heijn",
+    "country": "The Netherlands",
+    "photoUrl": "../images/people/appie.png",
+    "image": "logo-light.svg",
+    "tags": [
+        "Android"
+    ],
+    "shortBio": "Reiner, Jacob and Johan are part of the Android Appie team at Ahold IT Online. Vince has recently switched to a project at ING, but still has a lot of knowledge about the test setup for the Appie project and we’re happy that Vince joined the team once more, just for this workshop. In the past years Ahold IT Online has invested heavily in setting up unit-, Espresso and UI integration tests in the Appie project. The app is automatically tested on the most boring parts so that the developers and the testers can focus on other things."    
 }]

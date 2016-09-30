@@ -267,5 +267,35 @@
             "17"
         ],
         "complexity": "Everyone"
+    },
+    "workshop_0": {
+        "id": "workshop_0",
+        "title": "Going offline with Progressive Web Apps",
+        "description": "In this two part workshop of google's curated content with some opinionated extras (120 mins) we are going to: <br><br> Part 1: we are going to build a Weather web app using Progressive Web App techniques. Let's consider the properties of a Progressive Web App:<br><br>Progressive - we'll use progressive enhancement throughout.\rResponsive - we'll ensure it fits any form factor.<br>Connectivity independent - we'll cache the app shell with service workers.<br>App-like - we'll use app-style interactions to add cities and refresh the data.<br>Fresh - we'll cache the latest data with service workers.<br>Safe - we'll deploy the app to a host that support HTTPS.<br>Discoverable and installable - we'll include a manifest making it easy for search engines to find our app.<br>Linkable - it's the web!<br><br>We will learn how to:<br>-How to design and construct an app using the \"app shell\" method<br> -How to make your app work offline<br>-How to store data for use offline later<br><br>Part 2: learn how to build a Progressive Web Apps using Firebase and Polymer Web Components. We will connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to homescreen of an Android device.<br><br>We will learn how to:<br>-Use Firebase components to add a database backend to your app<br>-Use Firebase components to add user authentication to your app<br>-Keep user data available when the user goes offline<br>-Make our app installable to the home screen of an Android device<br><br>Requirements:<br>-Basic knowledge of HTML, CSS, JavaScript, and Chrome DevTools<br>-Chrome 52 or above<br>-Git<br>-NodeJS v6+<br>-(optional) An Android device<br>",
+        "tags": ["PWA"],
+        "speakers": [
+            "19"
+        ],
+        "complexity": "Intermediate"
+    },
+    "workshop_1": {
+        "id": "workshop_1",
+        "title": "Android Testing Workshop",
+        "description": "In this workshop we will share our experiences on unit-, Espresso and UI integration testing in the Appie project. What works for us, what didn’t? What value do tests add to our project? And is this just value for the end-user, or also for us as developers?<br><br>We won’t be long in telling our story, so you’ll have plenty of time to get your hands dirty with the Android Testing Codelab and see for yourself. We’ll walk around if you have any questions about the material. We’ll highlight some of the cool things about Espresso and testing in general in short presentations.<br><br>Although testing on a device or emulator can be cumbersome at times we still know adding unit-, Espresso and UI integration tests will help you write better code! We hope our enthusiasm rubs off on you when attending this workshop. We even challenge you to bring your own project and setup one, or all of the test variants, so you can apply what you’ve learned next Monday morning at work.<br><br>Requirements:<br>- A good understanding of Android and Android Studio<br>- A fresh clone of https://github.com/googlecodelabs/android-testing<br>",
+        "tags": ["Android"],
+        "speakers": [
+            "20"
+        ],
+        "complexity": "Intermediate"
+    },
+    "workshop_2": {
+        "id": "workshop_2",
+        "title": "Firebase",
+        "description": "",
+        "tags": ["Firebase"],
+        "speakers": [
+            "2"
+        ],
+        "complexity": "Intermediate"
     }
 }

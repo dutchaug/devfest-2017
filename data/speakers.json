@@ -449,7 +449,7 @@
     "photoUrl": "../images/people/erikromijn.png",
     "image": "logo-light.svg",
     "tags": [
-        "open source", "python"
+        "Open source", "Python"
     ],
     "shortBio": "Erik is the co-founder and CTO of a small company that helps governments manage healthcare. He is deeply involved in the community around Django, a popular Python web framework, being a Django core developer, chair of the Dutch Django Association and co-organiser of various conferences.",
     "socials": [

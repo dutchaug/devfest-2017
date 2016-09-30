@@ -98,19 +98,7 @@
     }, {
         "title": "Workshop room 2"
     }],
-    "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "sessions": [
-            ["registration"]
-        ]
-    }, {
-        "startTime": "10:00",
-        "endTime": "10:20",
-        "sessions": [
-            ["opening"]
-        ]
-    }, {
+    "timeslots": [ {
         "startTime": "10:30",
         "endTime": "12:00",
         "sessions": [
@@ -126,20 +114,8 @@
         "startTime": "13:00",
         "endTime": "14:30",
         "sessions": [
-            ["workshop_1"],
-            ["workshop_2"]
-        ]
-    }, {
-        "startTime": "14:30",
-        "endTime": "15:20",
-        "sessions": [
-            ["break"]
-        ]
-    },{
-        "startTime": "17:00",
-        "endTime": "19:00",
-        "sessions": [
-            ["party"]
+            ["workshop_2"],
+            ["workshop_1"]
         ]
     }]
 }]

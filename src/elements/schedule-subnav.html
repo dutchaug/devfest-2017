@@ -76,7 +76,7 @@
       <paper-tabs class="schedule-tabs" selected="[[selectedDay]]" attr-for-selected="day">
         <template is="dom-repeat" items="[[schedule]]" as="day">
           <paper-tab day$="day[[_addToValue(index, 1)]]" link>
-            <a href$="/schedule/day[[_addToValue(index, 1)]]" layout center>
+            <a href$="/schedule/[[_trackName(index)]]" layout center>
               [[day.dateReadable]]
             </a>
           </paper-tab>
@@ -221,7 +221,15 @@
 
         _refreshFiltersLabel: function () {
           this._filtersLabel = this.filters.join(', ');
-        }
+        },
+
+          _trackName : function(index) {
+              if (index == 0) {
+                  return 'sessions'
+              } else {
+                  return 'workshops'
+              }
+          }
 
       });
 

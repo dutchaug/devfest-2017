@@ -144,10 +144,18 @@
           'iron-overlay-closed': '_resetSessionIdParam'
         },
 
-        _routePageChanged: function (day) {
+        _routePageChanged: function (track) {
+          var day = null;
+          if (track) {
+             if ('sessions' == track) {
+                 day = 'day1'
+             } else if ('workshops' == track) {
+                 day = 'day2'
+             }
+          }
           if (this.selected) {
             if (!day) {
-              this.set('routeData.day', 'day1');
+              this.set('routeData.day', 'sessions');
             } else if (this.app.selectedDay !== day) {
               this.set('app.selectedDay', day);
             }
@@ -185,7 +193,6 @@
         _resetSessionIdParam: function () {
           !this.$.sessionDetails.opened && this.set('queryParams.sessionId', null);
         }
-
       });
 
     }());

@@ -271,8 +271,10 @@
     "workshop_0": {
         "id": "workshop_0",
         "title": "Going offline with Progressive Web Apps",
-        "description": "We are going to build a Weather web app using Progressive Web App techniques. Let's consider the properties of a Progressive Web App:<br><br>Progressive - we'll use progressive enhancement throughout.\rResponsive - we'll ensure it fits any form factor.<br>Connectivity independent - we'll cache the app shell with service workers.<br>App-like - we'll use app-style interactions to add cities and refresh the data.<br>Fresh - we'll cache the latest data with service workers.<br>Safe - we'll deploy the app to a host that support HTTPS.<br>Discoverable and installable - we'll include a manifest making it easy for search engines to find our app.<br>Linkable - it's the web!<br><br>We will learn how to:<br>-How to design and construct an app using the \"app shell\" method<br> -How to make your app work offline<br>-How to store data for use offline later.",
-        "tags": ["PWA"],
+        "description": "We are going to build a Progressive Web App with Polymer. \n\nWe will learn how to make a progressive web app using Polymer Web Components. We will connect pre-made view components to data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. Polymer Web Components make it easy to unlock the power of the web platform.\n\nYou'll learn how to\nUse Polymer components to add a database backend to your app\nUse Polymer components to add user authentication to your app\nKeep user data available when the user goes offline\nMake your app installable to the home screen of an Android device\n\nWhat you'll need\nA computer with a text editor and terminal shell or your favourite IDE.\nNode.js version 6.0.0 or greater.\nA Google account.\nA newly created Firebase project.\n(optional) An Android device with the latest version of Chrome.",
+        "tags": [
+            "PWA"
+        ],
         "speakers": [
             "19"
         ],

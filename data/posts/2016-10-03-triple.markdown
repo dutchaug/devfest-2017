@@ -1,0 +1,24 @@
+## About Triple
+
+Triple is an innovative tech-company. The people at Triple are driven by human technology, striving to impact mankind. With refining the use of design in technology and reimagining the ways the people at Triple can connect the two, they're constantly aiming for a better human experience. This has led to a playground where again and again design and technology merge into making perfect love baby's.
+
+### What we hope to add
+With more than 120 enthusiastic colleagues Triple hopes to make people’s lives a little more pleasant and maybe even a little better. That may sound audacious but it gives the people at Triple an aim in the choices they make for the world, for their clients and for themselves. Find out for more at [wearetriple.com](https://www.wearetriple.com).
+<br/><br/>
+Momentarily one of their aims is on creating great customer service solutions for different clients. A perfect example is the Vodafone chatbot. Its works great in helping customers having a pleasant and human-like experience with the brand, without it involving human interacting.
+<br/><br/>
+But as a company their thought process doesn’t end with developing a certain product for a certain client. For the people at Triple it's much more about how they can use the knowledge that they’ve gained and harvest it to grow other and better products. A specific example that makes them particularly proud is Beyond Care. With [Beyond Care EMDR](http://www.beyondcare.nl/products/vr-emdr?mc_cid=6f558744e5&mc_eid=[UNIQID]) they’ve actually taken it a step further and are actually making people's lives a little better by effectively reducing the negative effects of distressing memories anywhere, anytime.
+<br/><br/>
+[![Beyond Care EMDR](../images/posts/triple-beyondcare.jpg)](http://www.beyondcare.nl/products/vr-emdr?mc_cid=6f558744e5&mc_eid=[UNIQID])
+<br/><br/>
+
+## Triple's speaker at DevFest 2016
+
+<img src="../images/posts/triple-jordibruin.jpg" width="200" height="200" align="left" style="margin-right:12px"/>
+
+Jordi Bruin is a concept and innovation developer at Triple. When he isn’t helping clients deliver user friendly and innovative experiences, he’s working on improving the collaboration between designers and developers. Over the past year he has started learning Swift and recently installed Android Studio. His goal for 2016 is to understand how branches work in GIT.<br/><br/><br/><br/>
+
+### Jordi's talk: Developers and Designers
+The collaboration process between developers and designers has always had a large impact on the overall success of a project. Over the last few years however, there have been many improvements in this area. More than ever, designers can express themselves in interactive prototypes and intricate design patterns. 
+
+[Read more](/schedule/sessions?sessionId=android_2)

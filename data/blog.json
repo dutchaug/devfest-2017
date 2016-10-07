@@ -7,5 +7,14 @@
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/2015-outside.jpg",
     "brief": "We're are proud to announce the fourth annual GDG DevFest NL 2016&mdash;the biggest Google related event in The Netherlands, carefully crafted by the GDG community! The event will take place on **October 8th** in Amsterdam."
+  },
+    {
+    "id": "triple",
+    "title": "Triple: Creating a dent in the digital landscape.",
+    "posted": "2016-10-03",
+    "primaryColor": "#110F24",
+    "secondaryColor": "#24233B",
+    "image": "/images/posts/triple-office.jpg",
+    "brief": "We'd like to take a small amount of your time to introduce our platinum sponsor to you."
   }
 ]

@@ -75,8 +75,8 @@
             ["web_4"]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:50",
+        "startTime": "16:10",
+        "endTime": "17:00",
         "sessions": [
             ["android_5"],
             ["cloud_5"],

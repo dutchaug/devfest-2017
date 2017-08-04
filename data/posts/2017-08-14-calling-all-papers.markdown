@@ -1,6 +1,6 @@
-GDG DevFest The Netherlands 2016 has been announced! The fourth annual edition of the biggest conference about Google technologies in The Netherlands will take on **October 8th** in Amsterdam.
+GDG DevFest The Netherlands 2017 has been announced! The fifth annual edition of the biggest conference about Google technologies in the Netherlands will take on **November 18th** in Amsterdam.
 
-We've opened our [call for papers](https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform). If you are passionate about your work or hobby and want to share your experience with the biggest tech audience in Holland, don't hesitate to send an abstract of your session our way!
+We've opened our [call for papers](https://goo.gl/qZZJxJ). If you are passionate about your work or hobby and want to share your experience with the biggest tech audience in Holland, don't hesitate to send an abstract of your session our way!
 
 <!--
 <div class="quote-container reverse">
@@ -15,7 +15,7 @@ To keep up this year, we decided to focus on the content. **We’re looking for 
 -->
 
 <div class="text-center">
-<a href="https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform" target="_blank" class="style-scope header-content" style="color: white; ">
+<a href="https://goo.gl/qZZJxJ" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
 </a>
 </div>
@@ -24,7 +24,7 @@ To keep up this year, we decided to focus on the content. **We’re looking for 
 
 ### Why is it cool to be a speaker?
 
-Here are our top 4 reasons to [submit a proposal](https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform).
+Here are our top 4 reasons to [submit a proposal](https://goo.gl/qZZJxJ).
 
 1. **It's a unique challenge.** Public speaking is a magnificent skill to master!
 2. **It's good for your career.** Proving your level of expertise to a potential business partners or employers in invaluable to your professional experience.
@@ -40,6 +40,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Kotlin
 * RxJava
 * Data Binding
+* Android Things
 * Testing and architecture best practices (MVP, MVVM, Clean Architecture)
 
 #### Web
@@ -62,7 +63,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 **This call for papers will close on September 25th at 11:59 PM.**
 
 <div class="text-center">
-<a href="https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform" target="_blank" class="style-scope header-content" style="color: white; ">
+<a href="https://goo.gl/qZZJxJ" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
 </a>
 </div>

@@ -7,5 +7,14 @@
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/2015-outside.jpg",
     "brief": "We're are proud to announce the fifth annual GDG DevFest NL 2017&mdash;the biggest Google related event in The Netherlands, carefully crafted by the GDG community! The event will take place on **November 18th** in Amsterdam."
+  },
+  {
+    "id": "calling-all-papers",
+    "title": "Call for papers!",
+    "posted": "2017-08-14",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/2015-outside.jpg",
+    "brief": "GDG DevFest The Netherlands 2017 has been announced! The fifth annual edition of the biggest conference about Google technologies in the Netherlands will take on **November 18th** in Amsterdam."
   }
 ]

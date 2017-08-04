@@ -98,13 +98,6 @@
               </paper-tab>
             </template>
           </paper-tabs>
-          <div class="action-button-wrapper" layout horizontal center-center>
-            <template is="dom-repeat" items="[[app.data.navigation.buttons]]" as="nav">
-              <a href$="[[nav.url]]" target="[[nav.target]]" rel="noopener noreferrer" on-tap="_trackBuyClick">
-                <paper-button class="action-button">[[localize(nav.route)]]</paper-button>
-              </a>
-            </template>
-          </div>
         </template>
       </div>
     </app-toolbar>

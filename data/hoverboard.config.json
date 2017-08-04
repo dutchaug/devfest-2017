@@ -7,9 +7,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest The Netherlands 2015",
+          "title": "GDG DevFest The Netherlands 2016",
           "youtubeId": "JiLYsYvCs-A",
-          "text": "See how it was in 2015"
+          "text": "See how it was in 2016"
         },
         "hideLogo": false,
         "minHeight": "360px"
@@ -58,18 +58,6 @@
         "url": "/"
       },
       {
-        "route": "speakers",
-        "url": "/speakers/"
-      }, 
-      {
-        "route": "schedule",
-        "url": "/schedule/"
-      },      
-      {
-        "route": "blog",
-        "url": "/blog/"
-      },
-      {
         "route": "team",
         "url": "/team/"
       }
@@ -87,7 +75,7 @@
     "url": "https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5",
     "name": "b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc"
   },
-  "partnershipProposition": "maito:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2016,",
+  "partnershipProposition": "mailto:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2017,",
   "disqusShortName": "",
   "languages": [
     {
@@ -105,8 +93,8 @@
           "newTab": true
         },
         {
-          "text": "df-15",
-          "url": "http://2015.devfest.nl",
+          "text": "df-17",
+          "url": "http://2017.devfest.nl",
           "newTab": true
         },
         {
@@ -193,12 +181,12 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://goo.gl/photos/n3XUqoDjnecBGgBn9",
+    "albumUrl": "https://goo.gl/photos/Rv2u3DVSzpcqStAV8",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/2016_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
       ]
     }
   },
@@ -215,9 +203,9 @@
         "longitude": 4.9553595
     },
     "images": [
-      "/images/backgrounds/2015_1.jpg",
-      "/images/backgrounds/2015_2.jpg",
-      "/images/backgrounds/2015_3.jpg"
+      "/images/backgrounds/2016_1.jpg",
+      "/images/backgrounds/2016_2.jpg",
+      "/images/backgrounds/2016_3.jpg"
     ]
   },
   "videosSessionsUrl": "",

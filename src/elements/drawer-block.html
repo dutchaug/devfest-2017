@@ -9,7 +9,6 @@
 <link rel="import" href="../../bower_components/paper-toolbar/paper-toolbar.html">
 <link rel="import" href="../../bower_components/paper-menu/paper-menu.html">
 
-<link rel="import" href="../behaviors/localize-behavior.html">
 <link rel="import" href="../styles/shared-styles.html">
 
 
@@ -83,11 +82,11 @@
     <paper-toolbar class="tall">
       <div class="top">
         <iron-image class="logo" src="/images/logo-white.svg" sizing="contain"
-                    alt="[[localize('title')]]"></iron-image>
+                    alt="{$ title $}"></iron-image>
       </div>
       <div class="bottom">
-        <span class="dates">[[localize('dates')]]</span>
-        <span class="location">{{localize('location-address-short')}}</span>
+        <span class="dates">{$ dates $}</span>
+        <span class="location">{$ locationAddressShort $}</span>
       </div>
     </paper-toolbar>
     <nav>
@@ -97,17 +96,18 @@
         selected="{{pageData.page}}"
         selected-class="selected"
       >
-        <template is="dom-repeat" items="[[app.data.navigation.tabs]]" as="nav">
-          <a class="navigation-link" name="[[nav.route]]" href$="[[nav.url]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
-        </template>
-        <template is="dom-repeat" items="[[app.data.navigation.buttons]]" as="nav">
-          <a class="navigation-link" href$="[[nav.url]]" target="[[nav.target]]" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize(nav.route)]]
-            <template is="dom-if" if="[[nav.target]]" as="nav"><iron-icon
-              class="open-in-new"
-              icon="open-in-new"
-            ></iron-icon></template>
+        {% for nav in navigation %}
+          <a class="navigation-link" href="{$ nav.permalink $}" name="{$ nav.route $}" on-tap="closeDrawer">
+            {$ pages[nav.route].title $}
           </a>
-        </template>
+        {% endfor %}
+        <a class="navigation-link" href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          {$ buyTicket $}
+          <iron-icon
+            class="open-in-new"
+            icon="open-in-new"
+          ></iron-icon>
+        </a>
       </paper-menu>
     </nav>
 
@@ -120,10 +120,6 @@
       Polymer({
 
         is: 'drawer-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
 
         closeDrawer: function () {
           HOVERBOARD.Elements.Template.closeDrawer();

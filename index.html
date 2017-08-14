@@ -5,67 +5,63 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <meta name="description"
-        content="GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world.">
-  <meta name="keywords"
-        content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, Dutch Android User Group, The Netherlands">
-  <meta name="author" content="DevFestNL">
+  <meta name="description" content="{$ description $}">
+  <meta name="keywords" content="{$ keywords $}">
+  <meta name="author" content="{$ organizer.name $}">
 
-  <title>GDG DevFest The Netherlands 2017</title>
+  <title>{$ title $}</title>
 
-  <link rel="canonical" href="https://devfest.nl">
-  <link rel="shortcut icon" sizes="32x32" href="images/favicon/favivon-32.png">
+  <link rel="canonical" href="{$ url $}">
+  <link rel="shortcut icon" sizes="32x32" href="/images/favicon/favicon-32.png">
 
-  <meta name="theme-color" content="#F57C00">
+  <meta name="theme-color" content="{$ webapp.themeColor $}">
   <link rel="manifest" href="manifest.json">
 
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes"> <!-- fallback for manifest.json -->
-  <meta name="application-name" content="DevFest The Netherlands"> <!-- fallback for manifest.json -->
+  <meta name="application-name" content="{$ title $}"> <!-- fallback for manifest.json -->
 
   <!-- Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="DevFest The Netherlands">
+  <meta name="apple-mobile-web-app-title" content="{$ title $}">
 
   <!-- Homescreen icons. -->
-  <link rel="shortcut icon" href="images/favicon/favicon-72.png">
-  <link rel="apple-touch-icon" href="images/touch/homescreen-48.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="images/touch/homescreen-72.png">
-  <link rel="apple-touch-icon" sizes="96x96" href="images/touch/homescreen-96.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="images/touch/homescreen-144.png">
-  <link rel="apple-touch-icon" sizes="192x192" href="images/touch/homescreen-192.png">
+  <link rel="shortcut icon" href="/images/favicon/favicon-72.png">
+  <link rel="apple-touch-icon" href="/images/touch/homescreen-48.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/touch/homescreen-72.png">
+  <link rel="apple-touch-icon" sizes="96x96" href="/images/touch/homescreen-96.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/touch/homescreen-144.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="/images/touch/homescreen-192.png">
 
   <!-- Tile icon for Win8 (144x144 + tile color) -->
-  <meta name="msapplication-TileImage" content="images/touch/homescreen-144.png">
+  <meta name="msapplication-TileImage" content="/images/touch/homescreen-144.png">
   <meta name="msapplication-TileColor" content="#ECEFF1">
   <meta name="msapplication-tap-highlight" content="no">
 
   <!-- G+ sharing meta data -->
-  <meta itemprop="name" content="GDG DevFest The Netherlands">
-  <meta itemprop="description"
-        content="GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world.">
-  <meta itemprop="image" content="images/social-share.png">
-  <meta itemprop="startDate" content="2016-09-09T09:00:00+03:00">
-  <meta itemprop="endDate" content="2016-09-10T19:00:00+03:00">
+  <meta itemprop="name" content="{$ title $}">
+  <meta itemprop="description" content="{$ description $}">
+  <meta itemprop="image" content="/images/social-share.png">
+  <meta itemprop="startDate" content="{$ startDate $}">
+  <meta itemprop="endDate" content="{$ endDate $}">
 
   <!-- Facebook sharing meta data -->
-  <meta property="og:title" content="GDG DevFest The Netherlands">
-  <meta property="og:site_name" content="GDG DevFest The Netherlands">
+  <meta property="og:title" content="{$ title $}">
+  <meta property="og:site_name" content="{$ title $}">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://devfest.nl">
-  <meta property="og:description"
-        content="GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world.">
+  <meta property="og:url" content="{$ url $}">
+  <meta property="og:description" content="{$ description $}">
   <meta property="og:type" content="Event">
-  <meta property="og:image" content="images/social-share.png">
+  <meta property="og:image" content="/images/social-share.jpg">
+  <meta property="og:image:type" content="image/png" />
 
   <!-- Twitter meta data -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:creator" content="@gdglviv">
-  <meta name="twitter:title" content="GDG DevFest The Netherlands">
-  <meta name="twitter:description"
-        content="GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world.">
-  <meta name="twitter:image" content="images/social-share.png">
+  <meta name="twitter:creator" content="@{$ organizer.twitter $}">
+  <meta name="twitter:title" content="{$ title $}">
+  <meta name="twitter:description" content="{$ description $}">
+  <meta name="twitter:image" content="/images/social-share.jpg">
 
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
   <link rel="dns-prefetch" href="https://apis.google.com">
@@ -106,7 +102,7 @@
 
     // Creates the tracker.
     ga('create', {
-      trackingId: window.ENV === 'prod' ? 'UA-66658291-2' : 'UA-66658291-2',
+      trackingId: window.ENV === 'prod' ? '{$ analytics.prod $}' : '{$ analytics.dev $}',
       cookieDomain: 'auto',
       cookiePath: window.ENV !== 'dev' ? window.PREFIX || '/' : null,
       siteSpeedSampleRate: 10 // 10% of users.
@@ -129,23 +125,6 @@
   </script>
 
   <link rel="import" href="/src/hoverboard-app.html" async>
-
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Event",
-      "name": "GDG DevFest The Netherlands",
-      "description": "GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world",
-      "startDate": "2017-11-18T10:00:00+01:00",
-      "endDate": "2017-11-18T19:00:00+01:00",
-      "url": "https://devfest.nl",
-      "location": {
-        "@type" : "Place",
-        "name" : "The Faculty of Science",
-        "address": "Science Park 904, Amsterdam"
-      }
-    }
-  </script>
 
 </head>
 <body>

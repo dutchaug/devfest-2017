@@ -1,162 +1,65 @@
 {
-  "pages": {
-    "home": {
-      "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/amsterdam.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest The Netherlands 2016",
-          "youtubeId": "JiLYsYvCs-A",
-          "text": "See how it was in 2016"
-        },
-        "hideLogo": false,
-        "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "speakers": {
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "schedule": {
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "headerSettings": {
-        "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "code-of-conduct": {
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    }
+  "url": "https://devfest.nl",
+  "startDate": "2017-11-18T09:00:00+03:00",
+  "endDate": "2017-11-18T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-66658291-2",
+    "dev": "UA-66658291-2"
   },
-  "navigation": {
-    "tabs": [
-      {
-        "route": "home",
-        "url": "/"
-      },
-      {
-        "route": "team",
-        "url": "/team/"
-      }
-    ],
-    "buttons": [
-      {
-        "route": "buy-ticket",
-        "url": "https://devfestnl17.eventbrite.com/?aff=www#tickets",
-        "target": "_blank"
-      }
-    ]
+  "organizer": {
+    "name": "GDG DutchAUG",
+    "twitter": "dutchAUG"
   },
-  "url": "https://devfest.nl/",
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "hoverboard-experimental",
+    "domain": "hoverboard-experimental.firebaseapp.com",
+    "database": "https://hoverboard-experimental.firebaseio.com",
+    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
   "mailchimp": {
     "url": "https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5",
     "name": "b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc"
   },
-  "partnershipProposition": "mailto:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2017,",
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "DevFestNL",
   "disqusShortName": "",
-  "languages": [
+  "tweetsSource": "/data/tweets.json",
+  "partnershipProposition": "mailto:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2017,",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": true,
+  "navigation": [
     {
-      "name": "English",
-      "key": "en"
-    }
-  ],
-  "footerBlocks": [
-    {
-      "title": "for-visitors",
-      "links": [
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-17",
-          "url": "http://2017.devfest.nl",
-          "newTab": true
-        },
-        {
-          "text": "code-of-conduct",
-          "url": "/code-of-conduct",
-          "newTab": false
-        }
-      ]
-    }
-  ],
-  "contactBlock": {
-    "links": [
-      {
-        "text": "info@devfest.nl",
-        "url": "mailto:info@devfest.nl"
-      }
-    ]
-  },
-  "tickets": {
-    "url": "https://devfestnl17.eventbrite.com/?aff=www#tickets",
-    "elements": [
-      {
-        "name": "early-ticket",
-        "price": 0,
-        "currency": "",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 0,
-        "currency": "",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
-        "info": "lazy-ticket-info",
-        "soldOut": true
-      }
-    ]
-  },
-  "teamPageTitle": "team-page-title",
-  "teamPageText": "team-page-text",
-  "statistics": [
-    {
-      "counter": 500,
-      "caption": "attendees"
+      "route": "home",
+      "permalink": "/"
     },
     {
-      "counter": 1,
-      "caption": "days"
+      "route": "blog",
+      "permalink": "/blog/"
     },
     {
-      "counter": 16+,
-      "caption": "sessions"
+      "route": "schedule",
+      "permalink": "/schedule/"
     },
     {
-      "counter": 3,
-      "caption": "tracks"
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
     }
   ],
-  "hashtag": "devfestnl",
   "social": [
     {
       "name": "twitter",
@@ -174,19 +77,10 @@
       "url": "https://www.linkedin.com/groups/3669069"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
-  "gallery": {
-    "albumUrl": "https://goo.gl/photos/Rv2u3DVSzpcqStAV8",
-    "photos": {
-      "big": "/images/backgrounds/2016_1.jpg",
-      "small": [
-        "/images/backgrounds/2016_2.jpg",
-        "/images/backgrounds/2016_3.jpg"
-      ]
-    }
-  },
   "location": {
     "apiKey": "",
+    "name": "The Faculty of Science",
+    "address": "Science Park 904, Amsterdam, The Netherlands",
     "link": "http://www.uva.nl/en/about-the-uva/organisation/faculties/content/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculty-of-science.html",
     "pointer": {
       "latitude": 52.3544534,
@@ -203,9 +97,72 @@
       "/images/backgrounds/2016_3.jpg"
     ]
   },
-  "videosSessionsUrl": "",
-  "callToAction": {
-    "videoTitle": "action-title",
-    "videoId": "JiLYsYvCs-A"
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2016_1.jpg",
+      "small": [
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/amsterdam.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest The Netherlands 2016",
+          "youtubeId": "JiLYsYvCs-A",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
   }
 }

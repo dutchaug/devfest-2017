@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "devfest-nl-staging"
+    "default": "devfest-nl-staging",
+    "production": "devfest-nl"
   }
 }

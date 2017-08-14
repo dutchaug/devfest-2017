@@ -65,7 +65,7 @@
     "buttons": [
       {
         "route": "buy-ticket",
-        "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
+        "url": "https://devfestnl17.eventbrite.com/?aff=www#tickets",
         "target": "_blank"
       }
     ]
@@ -114,7 +114,7 @@
     ]
   },
   "tickets": {
-    "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
+    "url": "https://devfestnl17.eventbrite.com/?aff=www#tickets",
     "elements": [
       {
         "name": "early-ticket",
@@ -148,7 +148,7 @@
       "caption": "days"
     },
     {
-      "counter": 20,
+      "counter": 16+,
       "caption": "sessions"
     },
     {
@@ -162,11 +162,6 @@
       "name": "twitter",
       "nickname": "DevFestNL",
       "url": "https://twitter.com/devfestnl"
-    },
-    {
-      "name": "gplus",
-      "nickname": "113182948271879290904",
-      "url": "https://plus.google.com/113182948271879290904"
     },
     {
       "name": "facebook",

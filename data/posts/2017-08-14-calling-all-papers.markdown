@@ -33,13 +33,15 @@ Here are our top 4 reasons to [submit a proposal](https://goo.gl/qZZJxJ).
 
 ### Themes and topics – what do we expect?
 
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+Our team prepared a set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
 #### Android
-* New features in Nougat (multi-window, notifications, Java 8)
+* New features in 'O'
 * Kotlin
 * RxJava
 * Data Binding
+* Room
+* Lifecycle
 * Android Things
 * Testing and architecture best practices (MVP, MVVM, Clean Architecture)
 
@@ -53,6 +55,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 #### Cloud
 * Machine Learning (TensorFlow, Vision API, Speech API, etc.)
 * Big Data (PubSub, BigQuery, Dataflow)
+* Google Cloud Functions
 * Firebase
 * Kubernetes
 
@@ -60,7 +63,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 ### Deadline
 
-**This call for papers will close on September 25th at 11:59 PM.**
+**This call for papers will close on October 1st at 11:59 PM.**
 
 <div class="text-center">
 <a href="https://goo.gl/qZZJxJ" target="_blank" class="style-scope header-content" style="color: white; ">

@@ -36,7 +36,7 @@ Here are our top 4 reasons to [submit a proposal](https://goo.gl/qZZJxJ).
 Our team prepared a set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
 #### Android
-* New features in 'O'
+* New features in Oreo
 * Kotlin
 * RxJava
 * Data Binding
@@ -63,7 +63,7 @@ Our team prepared a set of interesting topics in but if you have any cool idea y
 
 ### Deadline
 
-**This call for papers will close on October 1st at 11:59 PM.**
+**This call for papers will close on October 15th at 11:59 PM.**
 
 <div class="text-center">
 <a href="https://goo.gl/qZZJxJ" target="_blank" class="style-scope header-content" style="color: white; ">

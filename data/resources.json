@@ -28,11 +28,11 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "The Faculty of Science",
+  "locationDescription": "",
+  "locationAddress": "Science Park 904, Amsterdam",
   "organizerTitle": "Organizer",  
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "<a href='http://www.dutchaug.org' target='_blank'><img src='/images/logos/gdg-dutchaug.svg' title='The Dutch Android User Group'></a>",
   "openTeamPage": "See all team members",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Groups (GDGs) are open and volunteer communities of developers who share a passion for Google technologies.",
@@ -83,8 +83,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "info@devfest.nl",
+        "url": "mailto:info@devfest.nl"
       }
     ]
   },
@@ -100,7 +100,7 @@
       "caption": "Days"
     },
     {
-      "counter": "16+",
+      "counter": "20",
       "caption": "Sessions"
     },
     {

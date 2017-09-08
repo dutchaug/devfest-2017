@@ -130,7 +130,8 @@
                 </div> -->
               {% endif %}
               <div class="action-buttons">
-                <!-- <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button> -->
+                <paper-button class="primary" on-tap="_submitTalk" raised>{$ submitTalk $}</paper-button>
+                <paper-button class="primary" on-tap="_becomePartner" raised>{$ becomePartner $}</paper-button>
               </div>
             </div>
           </div>
@@ -189,6 +190,16 @@
             behavior: 'smooth',
             target: HOVERBOARD.Elements.Scroller
           });
+        },
+
+        _submitTalk : function() {
+          HOVERBOARD.Analytics.trackEvent('talk', 'submit_talk_click', 'header');
+          window.open('https://goo.gl/qZZJxJ', '_blank');
+        },
+
+        _becomePartner : function() {
+          HOVERBOARD.Analytics.trackEvent('sponsors', 'open proposition', 'Become a partner');
+          window.open('mailto:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2017,', '_blank');          
         }
 
       });

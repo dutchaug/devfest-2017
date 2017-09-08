@@ -21,7 +21,7 @@ Watch our [**highlight video from GDG DevFest NL 2015**](https://www.youtube.com
 
 ### Call for papers
 
-We're pleased to announce that our [call for papers](https://docs.google.com/a/dutchaug.org/forms/d/e/1FAIpQLSd6VHHL9zP3OKaPRlc7Gey-QtLxHr9Q82LHujcYBkIIQhkXpg/viewform) has opened. Apply and share with us your knowledge and experience at DevFest NL this year!
+We're pleased to announce that our [call for papers](https://goo.gl/qZZJxJ) has opened. Apply and share with us your knowledge and experience at DevFest NL this year!
 
 ### See you soon!
 
@@ -31,4 +31,4 @@ You can find information about registration, speakers, tickets and other latest 
 
 <br/>
 
-Most importantly: *Have fun, and see you on October 8th!*
+Most importantly: *Have fun, and see you on November 18th!*

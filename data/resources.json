@@ -58,6 +58,7 @@
   "removedFromSchedule": "Removed from My Schedule",
   "addedToSchedule": "Added to My Schedule",
   "rateSession": "Rate session",
+  "submitTalk" : "Submit a talk",
   "footerBlocks": [
     {
       "title": "For visitors",
@@ -97,7 +98,7 @@
     },
     {
       "counter": 1,
-      "caption": "Days"
+      "caption": "Day"
     },
     {
       "counter": "20",

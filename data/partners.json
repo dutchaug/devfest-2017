@@ -1,25 +1,33 @@
 [
-  {
-    "title": "main-sponsor",
-    "logos": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg",
-        "width": 300,
-        "height": 120
-      }
-    ]
-  },
-  {
-    "title": "support-sponsor",
-    "logos": [
-      {
-        "name": "Minor Programmeren",
-        "url": "http://www.mprog.nl/",
-        "logoUrl": "../images/logos/minor-programmeren.png",
-        "width": 100
-      }
-    ]
-  }
+   {
+      "title" : "Main Sponsor",
+      "logos" : [
+         {
+            "name" : "Google",
+            "url" : "https://www.google.com.ua/intl/en/about/",
+            "logoUrl" : "../images/logos/google.svg"
+         }
+      ]
+   },
+   {
+      "logosClass" : "silver",
+      "logos" : [
+         {
+            "name" : "Luminis",
+            "logoUrl" : "../images/logos/luminis-250.jpg",
+            "url" : "http://arnhem.luminis.eu/"
+         },
+         {
+            "name" : "M2Mobi",
+            "url" : "https://www.m2mobi.com/",
+            "logoUrl" : "../images/logos/m2mobi.svg"
+         },
+         {
+            "name" : "Bol.com",
+            "logoUrl" : "../images/logos/bol-com.png",
+            "url" : "http://techlab.bol.com/"
+         }
+      ],
+      "title" : "Silver Sponsors"
+   }
 ]

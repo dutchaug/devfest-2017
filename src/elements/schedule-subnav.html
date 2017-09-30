@@ -141,10 +141,8 @@
           hide-scroll-buttons
         >
           <template is="dom-repeat" items="[[schedule]]" as="day">
-            <paper-tab day$="day[[_addToValue(index, 1)]]" link>
-              <a href$="/schedule/day[[_addToValue(index, 1)]]" layout center>
-                [[day.dateReadable]]
-              </a>
+            <paper-tab day$="[[day.nav]]" link>
+              <a href$="/schedule/[[day.nav]]" layout center>[[day.dateReadable]]</a>
             </paper-tab>
           </template>
           <template is="dom-if" if="{{app.user}}">
@@ -169,9 +167,8 @@
             attr-for-selected="day">
 
             <template is="dom-repeat" items="[[schedule]]" as="day">
-              <paper-item label$="[[day.dateReadable]]" day$="day[[_addToValue(index, 1)]]" link>
-                <a href$="/schedule/day[[_addToValue(index, 1)]]"
-                   layout center>[[day.dateReadable]]</a>
+              <paper-item label$="[[day.dateReadable]]" day$="[[day.nav]]" link>
+                <a href$="/schedule/[[day.nav]]" layout center>[[day.dateReadable]]</a>
               </paper-item>
             </template>
           </paper-menu>
@@ -362,9 +359,9 @@
 
         _getDayLabel: function (selectedDay) {
           if (!this.schedule || this._isMySchedulePage(selectedDay)) return;
-
+          console.log(selectedDay);
           var index = Number(selectedDay.match(/\d+/)[0]);
-          return this.schedule[index - 1].dateReadable;
+          return index == 0 ? "sessions" : "workshops"; //this.schedule[index - 1].dateReadable;
         }
       });
 

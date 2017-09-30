@@ -1,0 +1,55 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Johan Pelgrim",
+    "hidden" : true,
+    "tags": [
+      "Android",
+      "Entrepreneurship"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Dennis Geurts",
+    "hidden" : true,
+    "bio": "Dennis is Software Architect at Luminis by day, processing IoT related big data and embedded devices enthusiast by night, connecting devices to the internet through BLE, WiFi, 2.4GHz radio and LoRaWAN.",
+    "shortBio": "Loves to tinker with hardware",
+    "company": "Madison Development",
+    "country": "The Netherlands",
+    "featured": true,
+    "photoUrl": "/images/people/dennis_geurts.jpg",
+    "socials" : [
+      {
+        "link" : "https://plus.google.com/+DennisGeurtsOneOfMany",
+        "icon" : "gplus",
+        "name" : "Google+"
+      },
+      {
+        "icon" : "twitter",
+        "name" : "Twitter",
+        "link" : "https://twitter.com/dennisgggg"
+      },
+      {
+        "link" : "https://www.facebook.com/dennis.geurts.58",
+        "name" : "Facebook",
+        "icon" : "facebook"
+      },
+      {
+        "link" : "https://www.linkedin.com/in/dennisgeurts",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
+    "badges" : [{
+      "description": "Android Google Developer Expert",
+      "link": "https://developers.google.com/experts/people/dennis-geurts.html",
+      "name": "GDE"
+    }],
+    "tags": [
+      "IoT",
+      "Android",
+      "Arduino"
+    ],
+    "title": "IoT Evangelist & Developer"
+  }
+}

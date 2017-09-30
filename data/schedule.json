@@ -1,5 +1,6 @@
 [{
-    "date": "2016-10-08",
+    "date": "2017-11-18",
+    "nav": "sessions",
     "dateReadable": "Sessions",
     "tracks": [{
         "title": "Catwoman"
@@ -91,7 +92,8 @@
     }]
 },
 {
-    "date": "2016-10-08",
+    "date": "2017-11-18",
+    "nav": "workshops",
     "dateReadable": "Workshops",
     "tracks": [{
         "title": "Workshop room 1"

@@ -36,8 +36,8 @@
   "disqusShortName": "",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "mailto:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2017,",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
+  "_videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
@@ -89,7 +89,7 @@
       "/images/backgrounds/2016_3.jpg"
     ]
   },
-  "gallery": {
+  "_gallery": {
     "albumUrl": "https://photos.google.com/share/AF1QipPl9-5f2rQcfI5R979kfY9GY3ZrSkmIImGlBRpG2MvvsFYtUHIRl3K8zM6GRBlpuQ",
     "photos": {
       "big": "/images/backgrounds/2016_1.jpg",

@@ -287,7 +287,9 @@
 
         ready: function () {
           this.async(function () {
-            this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.mainTag));
+            if (this.session.mainTag) {
+              this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.mainTag));
+            }
           });
         },
 

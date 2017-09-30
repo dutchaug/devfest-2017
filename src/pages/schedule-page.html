@@ -73,7 +73,7 @@
       <neon-animated-pages selected="[[app.selectedDay]]" attr-for-selected="name">
         <template is="dom-repeat" items="[[schedule]]" as="day" on-dom-change="updateCascadedNodes">
           <schedule-day
-            name$="day[[_addToValue(index, 1)]]"
+            name$="[[day.nav]]"
             app="{{app}}"
             day="[[day]]"
             filters="[[filters]]"
@@ -151,32 +151,19 @@
         },
 
         _routePageChanged: function (track) {
-          var day = null;
-          if (track) {
-             if ('sessions' == track) {
-                 day = 'day1'
-             } else if ('workshops' == track) {
-                 day = 'day2'
-             }
-          }
+
+
           if (this.selected) {
-            if (!day) {
-              var dayToSelect = null;
-              var today = new Date().toISOString().substring(0, 10);
-              if (this.schedule) {
-                for (var i = 0, length = this.schedule.length; i < length; i++) {
-                  if (today === this.schedule[i].date) {
-                    dayToSelect = 'day' + (i + 1);
-                  }
-                }
-              }
-              this.set('routeData.day', (dayToSelect || 'day1'));
-            } else if (day === 'myschedule' && !this.app.user) {
-              this.set('routeData.day', 'day1');
-            } else if (this.app.selectedDay !== day) {
-              this.set('app.selectedDay', day);
-            }
+              this.set('routeData.day', (track || 'sessions'));
+              this.set('app.selectedDay', (track || 'sessions'));
+          } else if (track === 'myschedule' && !this.app.user) {
+              this.set('routeData.day', 'sessions');
+          } else if (this.app.selectedDay !== track) {
+              this.set('app.selectedDay', track);
+          } else {
+             this.set('app.selectedDay', 'sessions');
           }
+
         },
 
         _queryParamsChanged: function (params, sessions) {

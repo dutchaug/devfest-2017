@@ -1,55 +1,39 @@
 {
   "1": {
     "id": 1,
-    "name": "Johan Pelgrim",
-    "hidden" : true,
-    "tags": [
-      "Android",
-      "Entrepreneurship"
-    ]
-  },
-  "2": {
-    "id": 2,
-    "name": "Dennis Geurts",
-    "hidden" : true,
-    "bio": "Dennis is Software Architect at Luminis by day, processing IoT related big data and embedded devices enthusiast by night, connecting devices to the internet through BLE, WiFi, 2.4GHz radio and LoRaWAN.",
-    "shortBio": "Loves to tinker with hardware",
-    "company": "Madison Development",
+    "name": "Dylan Drost",
+    "bio": "Android Developer working a mental health platform (e-health) to communicate, treat and manage clients. Occasional web developer/server admin for https://bettyskitchen.nl a food blog which is run by my wife. The current stack I work with is Android(Java), Symfony(PHP), Docker, Gitlab, Wordpress.",
+    "shortBio": "Android developer working on a mental health platform",
+    "company": "Karify",
     "country": "The Netherlands",
     "featured": true,
-    "photoUrl": "/images/people/dennis_geurts.jpg",
+    "photoUrl": "/images/people/dylan_drost.jpeg",
     "socials" : [
       {
-        "link" : "https://plus.google.com/+DennisGeurtsOneOfMany",
-        "icon" : "gplus",
-        "name" : "Google+"
+        "link" : "https://plus.google.com/+DylanDrost",
+        "name" : "Google+",
+        "icon" : "gplus"
       },
       {
-        "icon" : "twitter",
+        "link" : "https://twitter.com/aegis321",
         "name" : "Twitter",
-        "link" : "https://twitter.com/dennisgggg"
+        "icon" : "twitter"
       },
       {
-        "link" : "https://www.facebook.com/dennis.geurts.58",
+        "link" : "https://www.facebook.com/dylan.drost",
         "name" : "Facebook",
         "icon" : "facebook"
       },
       {
-        "link" : "https://www.linkedin.com/in/dennisgeurts",
+        "link" : "https://www.linkedin.com/in/dylandrost",
         "name" : "LinkedIn",
         "icon" : "linkedin"
       }
     ],
-    "badges" : [{
-      "description": "Android Google Developer Expert",
-      "link": "https://developers.google.com/experts/people/dennis-geurts.html",
-      "name": "GDE"
-    }],
+    "badges" : [],
     "tags": [
-      "IoT",
-      "Android",
-      "Arduino"
+      "Android"
     ],
-    "title": "IoT Evangelist & Developer"
+    "title": "Android Developer at Karify"
   }
 }

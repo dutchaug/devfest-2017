@@ -26,7 +26,13 @@
             "name" : "Bol.com",
             "logoUrl" : "../images/logos/bol-com.png",
             "url" : "http://techlab.bol.com/"
+         },
+         {
+            "name" : "Us Media",
+            "logoUrl" : "../images/logos/UsMedia250.png",
+            "url" : "http://www.usmedia.nl"
          }
+         
       ],
       "title" : "Silver Sponsors"
    }

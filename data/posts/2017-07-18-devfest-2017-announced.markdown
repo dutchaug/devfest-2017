@@ -2,7 +2,7 @@ We're are proud to announce the fifth annual GDG DevFest 2017&mdash;the biggest 
 
 ### What to expect
 
-* In 2016 the conference was visited by **430 attendees and 20 speakers from all over the world** and we are aiming to bring you an exciting and interesting programme this year again!
+* In 2016 the conference was visited by **500 attendees and 20 speakers from all over the world** and we are aiming to bring you an exciting and interesting programme this year again!
 * Every year more than 80% of our participants are **experienced developers**. DevFest NL will as always be highly technical for both beginners and seasoned developers.
 * Three parallel lecture tracks dedicated to **Mobile**, **Web** & **Cloud** technologies.
 * Workshops where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.

@@ -31,7 +31,7 @@
   "locationTitle": "The Faculty of Science",
   "locationDescription": "",
   "locationAddress": "Science Park 904, Amsterdam",
-  "organizerTitle": "Organizer",  
+  "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://www.dutchaug.org' target='_blank'><img src='/images/logos/gdg-dutchaug.svg' title='The Dutch Android User Group'></a>",
   "openTeamPage": "See all team members",
   "whatIsGdg": "What is GDG?",
@@ -59,6 +59,7 @@
   "addedToSchedule": "Added to My Schedule",
   "rateSession": "Rate session",
   "submitTalk" : "Submit a talk",
+  "scrollToTickets" : "Scroll to tickets",
   "footerBlocks": [
     {
       "title": "For visitors",

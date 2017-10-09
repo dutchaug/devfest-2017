@@ -1,0 +1,14 @@
+{
+   "url" : "https://devfestnl17.eventbrite.com/?aff=www#tickets",
+   "elements" : [
+      {
+         "name" : "Early bird",
+         "starts" : "",
+         "ends" : "",
+         "info" : "",
+         "currency" : "₴",
+         "soldOut" : true,
+         "price" : 500
+      }
+   ]
+}

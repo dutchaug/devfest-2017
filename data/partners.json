@@ -22,7 +22,12 @@
         "logoUrl" : "../images/logos/q42.png",
         "name" : "Q42",
         "url" : "https://www.q42.nl"
-     }
+       },
+       {
+        "logoUrl" : "../images/logos/qlouder300.png",
+        "name" : "Qlouder",
+        "url" : "http://www.qlouder.com/"
+       }
     ]
     },
    {

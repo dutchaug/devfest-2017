@@ -53,7 +53,12 @@
             "logoUrl" : "../images/logos/UsMedia250.png",
             "name" : "Us Media",
             "url" : "http://www.usmedia.nl"
-         }
+         },
+         {
+            "logoUrl" : "../images/logos/bamtechmedia.svg",
+            "name" : "Bamtech Media",
+            "url" : "https://www.bamtechmedia.com/"
+         }         
       ]
    }
 ]

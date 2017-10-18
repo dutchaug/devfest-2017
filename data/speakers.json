@@ -63,5 +63,43 @@
       "Android"
     ],
     "title": "Android Developer at Q42"
+  },
+  "3": {
+    "id": 3,
+    "email": "bob@kubrickolo.gy",
+    "name": "Bob van Luijt",
+    "bio": "Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. He puts his techniques to work at Kubrickology as well as with the company Firmshift. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.",
+    "shortBio": "Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree.",
+    "company": "Kubrickology",
+    "country": "The Netherlands",
+    "featured": true,
+    "photoUrl": "/images/people/bobvanluijt.jpg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/kubrickology",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://github.com/bobvanluijt/",
+        "name" : "Github",
+        "icon" : "github"
+      },
+      {
+        "link" : "https://www.linkedin.com/in/bobvanluijt/",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      },
+      {
+        "link" : "https://bob.wtf/",
+        "name" : "Website",
+        "icon" : "website"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "iot"
+    ],
+    "title": "Google Developer Expert IoT"
   }
 }

@@ -101,5 +101,265 @@
       "iot"
     ],
     "title": "Google Developer Expert IoT"
+  },  
+  "4": {
+    "id": 4,
+    "email": "info@html5test.com",
+    "name": "Niels Leenheer",
+    "bio": "Niels Leenheer is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, procrastinating, researching obscure browsers and writing bug reports. For his day job he is CTO of Salonhub and creates web applications for hair salons.",
+    "shortBio": "Niels Leenheer is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet.",
+    "company": "HTML5test.com",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "/images/people/nielsleenheer.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/html5test",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "web", "javascript"
+    ],
+    "title": ""
+  },  
+  "5": {
+    "id": 5,
+    "email": "ivan.maric@infinum.hr",
+    "name": "Ivan Maric",
+    "bio": "Ivan started working at Infinum during his last year of college. Since then, he has been a part of the Android team that currently counts more than 15 developers. For the last 3 years, he worked on many projects varying from simple quiz and game to more complex, unique apps. Besides striving to crash-free and maintainable development, he had his fair share of turning crazy designer ideas into eye-candy reality. That is why custom views and animations are two topics he's always more than happy to talk about. He regularly speaks at Infinum Android Talks, the largest monthly Android community event in Croatia. Still, his biggest pride is Infinum Student Academy where he has taken part as a full-time mentor and a teacher.",
+    "shortBio": "Ivan started working at Infinum during his last year of college. Since then, he has been a part of the Android team that currently counts more than 15 developers.",
+    "company": "Infinum",
+    "country": "Croatia",
+    "featured": false,
+    "photoUrl": "/images/people/ivanmaric.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/maric_iv",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "android"
+    ],
+    "title": ""
+  },  
+  "6": {
+    "id": 6,
+    "email": "juarezpaf@gmail.com",
+    "name": "Juarez Filho",
+    "bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun.",
+    "shortBio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun.",
+    "company": "",
+    "country": "Dublin/Ireland",
+    "featured": false,
+    "photoUrl": "/images/people/juarezfilho.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/juarezpaf",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://github.com/juarezpaf/",
+        "name" : "Github",
+        "icon" : "github"
+      },
+      {
+        "link" : "https://www.linkedin.com/in/juarezpaf/",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "firebase", "web"
+    ],
+    "title": ""
+  },  
+  "7": {
+    "id": 7,
+    "email": "rcgroot@gmail.com",
+    "name": "René de Groot",
+    "bio": "René is a mobile app developer building apps and training developers for Android since Cupcake. He spend that time build apps for banking, insurances, shopping, navigation, home automation, healthcare and more. Android is as much fun as 8 years ago, even more now with Kotlin.",
+    "shortBio": "René is a mobile app developer building apps and training developers for Android since Cupcake. He spend that time build apps for banking, insurances, shopping, navigation, home automation, healthcare and more. Android is as much fun as 8 years ago, even more now with Kotlin.",
+    "company": "",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "/images/people/renedegroot.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/rcgroot",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://github.com/rcgroot/",
+        "name" : "Github",
+        "icon" : "github"
+      },
+      {
+        "link" : "https://plus.google.com/u/1/+RenéDeGroot",
+        "name" : "Google+",
+        "icon" : "gplus"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "android"
+    ],
+    "title": ""
+  },  
+  "8": {
+    "id": 8,
+    "email": "iliev.vesselin@gmail.com",
+    "name": "Vesselin Iliev",
+    "bio": "",
+    "shortBio": "",
+    "company": "ASOS",
+    "country": "United Kingdom",
+    "featured": false,
+    "photoUrl": "/images/people/vesselinlliev.jpg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/ilievvesselin",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "http://veskoiliev.com/",
+        "name" : "Web",
+        "icon" : "web"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "android"
+    ],
+    "title": ""
+  },  
+  "9": {
+    "id": 9,
+    "email": "rokesh@google.com",
+    "name": "Rokesh Jankie",
+    "bio": "",
+    "shortBio": "",
+    "company": "Google",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "/images/people/RokeshJankie.png",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/rjankie",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://plus.google.com/+RokeshJankie",
+        "name" : "Google+",
+        "icon" : "gplus"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "cloud", "ml"
+    ],
+    "title": ""
+  },  
+  "10": {
+    "id": 10,
+    "email": "mail2shubho@gmail.com",
+    "name": "Shubhabrata Roy",
+    "bio": "Shubhabrata is a senior data scientist in HERE in Netherlands. He has vast experience in working with different domains including text mining, NLP, sentiment analysis. Now he is working on spatial and real-time data. Previously he worked with a start-up in Budapest where he was part of a small team that built the pipeline for the organization dealing with billions of records. Before that he was a doctoral student in ENS lyon in France where he finished worked in signal processing applications.",
+    "shortBio": "Shubhabrata is a senior data scientist in HERE in Netherlands. He has vast experience in working with different domains including text mining, NLP, sentiment analysis.",
+    "company": "HERE Technology",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "/images/people/shubhabrataroy.jpeg",
+    "socials" : [
+      {
+        "link" : "www.linkedin.com/in/shubhabrataroy",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "ml"
+    ],
+    "title": ""
+  },  
+  "11": {
+    "id": 11,
+    "email": "designatednerd@gmail.com",
+    "name": "Ellen Shapiro",
+    "bio": "",
+    "shortBio": "",
+    "company": "",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "/images/people/ellenshapiro.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/DesignatedNerd",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      }
+    ],
+    "badges" : [],
+    "tags": [
+      "android"
+    ],
+    "title": ""
+  },
+  "12": {
+    "id" : 12,
+    "email": "stefan@qlouder.com",
+    "name" : "Stefan Hogendoorn",
+    "bio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform, and developed many small and large business apps. Furthermore, he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense. <br>Stefan is one of the two owners of Qlouder (2012). Qlouder is a Google Cloud Platform partner and aims to deliver continuous value to organizations. This value can be defined in many ways, for example incremental improvements to existing products, the creation of entirely new products and services, or reducing costs by means of Google Apps for Work, the Google Cloud Platform and custom-build applications. Qlouder advises, builds, implements and offers support.",
+    "shortBio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company.",
+    "company" : "Qlouder",
+    "country" : "The Netherlands",
+    "featured" : false,
+    "photoUrl" : "../images/people/stefanhogendoorn.png",
+    "socials" : [
+      {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/shogendoorn"
+      },        
+      {
+          "icon": "linkedin",
+          "link": "https://nl.linkedin.com/in/stefanhogendoorn"
+      }
+    ],
+    "badges" : [],
+    "tags" : [
+        "cloud"
+    ]
+  },
+  "13": {
+    "id" : 13,
+    "email": "novakovskiy@google.com",
+    "name" : "Dmitriy Novakovskiy",
+    "bio" : "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure. Prior to Google, Dmitriy held a variety of Product Management, Sales Engineering and Solution Architecture roles at Mirantis, working in cloud (OpenStack) and containerization (Kubernetes) domains. At his spare time Dmitriy enjoys traveling and great choice of music events offered by The Netherlands all year round.",
+    "shortBio" : "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure.",
+    "company" : "Google",
+    "country" : "The Netherlands",
+    "featured" : false,
+    "photoUrl" : "../images/people/dmitriynovakovskiy.jpg",
+    "socials" : [  
+      {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dmitriynovakovskiy/"
+      }
+    ],
+    "badges" : [],
+    "tags" : [
+        "cloud"
+    ]
   }
 }

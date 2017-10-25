@@ -1,14 +1,14 @@
 [
    {
-    "logosClass" : "main",
+      "title" : "Main Sponsor",
+      "logosClass" : "main",
       "logos" : [
          {
-            "url" : "https://www.google.com.ua/intl/en/about/",
             "name" : "Google",
+            "url" : "https://www.google.com.ua/intl/en/about/",
             "logoUrl" : "../images/logos/google.svg"
          }
-      ],
-      "title" : "Main Sponsor"
+      ]
    },
    {
     "logosClass" : "platinum",
@@ -20,57 +20,57 @@
          }
       ],
       "title" : "Platinum Sponsor"
-   },   
+   }, 
    {
-    "logosClass" : "gold",
-    "title" : "Gold Sponsors",
-    "logos" : [
-       {
-          "logoUrl" : "../images/logos/Logo_Qualogy_groot_RGB.jpg",
-          "name" : "Qualogy",
-          "url" : "http://qualogy.com/devfest"
-       },
-       {
-        "logoUrl" : "../images/logos/q42.png",
-        "name" : "Q42",
-        "url" : "https://www.q42.nl"
-       },
-       {
-        "logoUrl" : "../images/logos/qlouder300.png",
-        "name" : "Qlouder",
-        "url" : "http://www.qlouder.com/"
-       }
-    ]
-    },
-   {
-      "logosClass" : "silver",
-      "title" : "Silver Sponsors",
+      "title" : "Gold Sponsors",
+      "logosClass" : "gold",
       "logos" : [
          {
-            "logoUrl" : "../images/logos/luminis-250.jpg",
-            "name" : "Luminis",
-            "url" : "http://arnhem.luminis.eu/"
+            "name" : "Qualogy",
+            "url" : "http://qualogy.com/devfest",
+            "logoUrl" : "../images/logos/Logo_Qualogy_groot_RGB.jpg"
          },
          {
-            "logoUrl" : "../images/logos/m2mobi.svg",
-            "url" : "https://www.m2mobi.com/",
-            "name" : "M2Mobi"
+            "logoUrl" : "../images/logos/q42.png",
+            "url" : "https://www.q42.nl",
+            "name" : "Q42"
          },
          {
-            "logoUrl" : "../images/logos/bol-com.png",
-            "name" : "Bol.com",
-            "url" : "http://techlab.bol.com/"
-         },
-         {
-            "logoUrl" : "../images/logos/UsMedia250.png",
-            "name" : "Us Media",
-            "url" : "http://www.usmedia.nl"
-         },
-         {
-            "logoUrl" : "../images/logos/bamtechmedia.svg",
-            "name" : "Bamtech Media",
-            "url" : "https://www.bamtechmedia.com/"
-         }         
+            "url" : "http://www.qlouder.com/",
+            "name" : "Qlouder",
+            "logoUrl" : "../images/logos/qlouder300.png"
+         }
       ]
+   },
+   {
+      "logosClass" : "silver",
+      "logos" : [
+         {
+            "url" : "http://arnhem.luminis.eu/",
+            "name" : "Luminis",
+            "logoUrl" : "../images/logos/luminis-250.jpg"
+         },
+         {
+            "url" : "https://www.m2mobi.com/",
+            "name" : "M2Mobi",
+            "logoUrl" : "../images/logos/m2mobi.svg"
+         },
+         {
+            "name" : "Bol.com",
+            "url" : "http://techlab.bol.com/",
+            "logoUrl" : "../images/logos/bol-com.png"
+         },
+         {
+            "name" : "Us Media",
+            "url" : "http://www.usmedia.nl",
+            "logoUrl" : "../images/logos/UsMedia250.png"
+         },
+         {
+            "url" : "https://www.bamtechmedia.com/",
+            "name" : "Bamtech Media",
+            "logoUrl" : "../images/logos/bamtechmedia-250.png"
+         }
+      ],
+      "title" : "Silver Sponsors"
    }
 ]

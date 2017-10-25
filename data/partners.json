@@ -11,6 +11,17 @@
       "title" : "Main Sponsor"
    },
    {
+    "logosClass" : "platinum",
+      "logos" : [
+         {
+            "url" : "https://www.wearetriple.com/",
+            "name" : "Triple",
+            "logoUrl" : "../images/logos/triple.png"
+         }
+      ],
+      "title" : "Platinum Sponsor"
+   },   
+   {
     "logosClass" : "gold",
     "title" : "Gold Sponsors",
     "logos" : [

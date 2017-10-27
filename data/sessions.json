@@ -3,9 +3,6 @@
     "id": "registration",
     "speakers": [],
     "description": "Time to get your badges, t-shirt and hopefully some nice coffee",
-    "tags": [
-      "General"
-    ],
     "title": "Registration",
     "track": {
       "title": "Foyer"
@@ -15,9 +12,6 @@
     "id": "opening",
     "speakers": [],
     "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-    "tags": [
-      "General"
-    ],
     "title": "GDG DevFest The Netherlands 2017 Opening",
     "track": {
       "title": "Spiderman"
@@ -27,9 +21,6 @@
     "id": "lunch",
     "speakers": [],
     "description": "",
-    "tags": [
-      "General"
-    ],
     "title": "Lunch",
     "track": {
       "title": "Foyer"
@@ -39,9 +30,6 @@
     "id": "break",
     "speakers": [],
     "description": "",
-    "tags": [
-      "General"
-    ],
     "title": "Break",
     "track": {
       "title": "Foyer"
@@ -51,9 +39,6 @@
     "id": "party",
     "speakers": [],
     "description": "The after party is a great time to have fun and meet new people!",
-    "tags": [
-      "General"
-    ],
     "title": "Afterparty & networking",
     "track": {
       "title": "Café Oerknal"

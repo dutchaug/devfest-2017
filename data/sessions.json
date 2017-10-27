@@ -99,7 +99,7 @@
     ],
     "description": "In this talk we'll discuss the problems around UI testing - why is it hard to write such tests, how to get started, how to make them part of your CI system. We'll present a recipe for building a scalable framework that makes writing UI tests a pleasure. We'll discuss mocking libraries and ways to build your own testing DSL. Most of the common \"gotcha-s\" and sources of flakiness will be solved along the way, as well as giving a few best practices.",
     "tags": [
-      "Mobile"
+      "Android"
     ],
     "title": "Zero to Hero in UI testing"
   },
@@ -127,7 +127,9 @@
   },
   "android_4": {
     "id": "android_4",
-    "speakers": [],
+    "speakers": [
+      14
+    ],
     "description": "In the Android world we have heard of so many different app architectures already so why not just dump in another one :) In this talk I will introduce a kind of Event Driven architecture. We will discuss what Event Sourcing and CQRS means. We will also see some code examples of how this can be applied to Android using the famous Android Architecture Blueprints example app. We will also see what value it brings and what headaches it could create. Lastly we will briefly see how this can work with our cloud back-end and intelligent Machine Learning systems.",
     "tags": [
       "Mobile",
@@ -162,7 +164,7 @@
     "speakers": [
       13
     ],
-    "description": "",
+    "description": "For too long we've been thinking that one can't have a relational database with transactions that would scale across multiple locations. You know - CAP theorem, speed of light, all these things. Google has changed recently this by releasing Cloud Spanner - a fully managed relational database service with strong consistency and true horizontal scalability. In this session, I'll do a sort of \"Spanner 101\" thing - explain the technology, how it does what it does, how to use it, where to use it (and where not). Of course, some live demo will be included. Even if you're not into databases that much - feel free to join, your DBA friend will appreciate that later :)",
     "tags": [
       "Cloud"
     ],
@@ -170,7 +172,9 @@
   },
   "cloud_2": {
     "id": "cloud_2",
-    "speakers": [],
+    "speakers": [
+      21
+    ],
     "description": "Modern application building require different architectural process, and switching to the model of microservices brings the highest value to the application performance, resiliency, security and flexibility.Google is a pioneer in microservices building, with the notable open source Google-born projects, including gRPC, Istio, and of course, Kubernetes. This talk will highlight the principles of microservices building using the described tools and technologies.",
     "tags": [
       "Cloud"
@@ -191,7 +195,9 @@
   },
   "cloud_4": {
     "id": "cloud_5",
-    "speakers": [],
+    "speakers": [
+      19
+    ],
     "description": "Microservices are the new-kid-on-the-block… Relatively new at least... Working with microservices and how to deploy them introduced a lot of challenges for the platform. Deploying a single ear on bare-metal was easy but deploying a whole cloud of microservices is not feasible that way. This is why cloud management tools like Kubernetes are being developed. This talk is about what Kubernetes is and how the components like docker, etcd and flannel operate together. I will talk shortly about what debugging possibilities there are in case the platform does not do what you tried to persuade it to do. ",
     "tags": [
       "Cloud"
@@ -200,7 +206,9 @@
   },
   "cloud_5": {
     "id": "cloud_5",
-    "speakers": [],
+    "speakers": [
+      15
+    ],
     "description": "Convolutional Neural Networks (CNNs) have many successful variants (e.g., LeNet, AlexNet, VGG, GoogLeNet (InceptionV1, V2, V3, V4), Xception, and MobileNet). All of them were originally applied to processing 2D data like images. It remains unknown whether they can be easily modified to process 1D data. This study shows that, with minor modifications, the VGG model can be used to process accelerometer data which is 1D. We trained three VGG models (for different input length) using labeled accelerometer data, in order to detect daily activities (e.g., cycling, driving, jogging, walking, sitting on the train, and sleeping). All our trained models achieved 98% accuracy. More details of this study include: (1) data pre-processing (streaming, shuffling, augmentation); (3) activation function; (4) loss function; (5)  GPU computing; (6) Dutch supercomputer for training large scale model; and (7) Google cloud services (storage and virtual machine).",
     "tags": [
       "Cloud"
@@ -231,7 +239,9 @@
   },
   "web_2": {
     "id": "web_2",
-    "speakers": [],
+    "speakers": [
+      18
+    ],
     "description": "The talk covers an introduction to Tensorflow main functioning and covers a wide variety of cases of use including images, raw data and approach to neural net design . It focuses on NASA SPACE APPS CHALLENGE 2016 Global finalist project for Asteroid detection and limbic system design.",
     "tags": [
       "Machine Learning"
@@ -251,7 +261,9 @@
   },
   "web_4": {
     "id": "web_4",
-    "speakers": [],
+    "speakers": [
+      20
+    ],
     "description": "Many developers starting out with TensorFlow will say it has a very steep learning curve. Why is this the case? In my talk I will argue that it is because TensorFlow is at the heart of three distinct disciplines: Computer Science, Artificial Intelligence and Mathematics. To truly build sensible programs with Tensorflow, one has to be familiar with at least the basics of each of these disciplines. In my talk I will start out with ideas from Artificial Intelligence, translate this to the realm of mathematics, and finally show how one could implement this on the computer with TensorFlow.",
     "tags": [
       "Machine Learning"
@@ -260,7 +272,9 @@
   },
   "web_5": {
     "id": "web_5",
-    "speakers": [],
+    "speakers": [
+      17
+    ],
     "description": "Applications that require data from real time events (such as a chat application, car position updates when you order an Uber, the stock market prices) impose their own challenges. How to store data? Can you cache data at all? How to make sure data that is constantly changing is consistent throughout the app? We’ll share our own experience at BUX on designing and coming up with an architecture to deal with these issues.",
     "tags": [
       "Web"

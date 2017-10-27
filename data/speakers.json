@@ -292,29 +292,6 @@
       "ml"
     ],
     "title": ""
-  },  
-  "11": {
-    "id": 11,
-    "email": "designatednerd@gmail.com",
-    "name": "Ellen Shapiro",
-    "bio": "",
-    "shortBio": "",
-    "company": "",
-    "country": "The Netherlands",
-    "featured": false,
-    "photoUrl": "/images/people/ellenshapiro.jpeg",
-    "socials" : [
-      {
-        "link" : "https://twitter.com/DesignatedNerd",
-        "name" : "Twitter",
-        "icon" : "twitter"
-      }
-    ],
-    "badges" : [],
-    "tags": [
-      "android"
-    ],
-    "title": ""
   },
   "12": {
     "id" : 12,
@@ -478,15 +455,28 @@
     "id" : 18,
     "email": "gema.parreno.piqueras@gmail.com",
     "name" : "Gema Parreño Piqueras",
-    "bio" : "",
-    "shortBio" : "",
-    "company" : "",
+    "bio" : "Gema Parreño Piqueras is a Spanish programmer & data scientist at BBVA who has designed Deep Asteroid, a network to detect the impact of asteroids on Earth. The project was a finalist in the global competition for the NASA Space App Challenge 2016 in May and was selected as one of the use cases for Google in Keynote Google I/O 2017. In addition to one of the developers of significant examples of the TensorFlow project she is a technical contributor to other projects as Artificial Intelligence pysc2 of Deepmind",
+    "shortBio" : "Gema Parreño Piqueras is a Spanish programmer & data scientist at BBVA who has designed Deep Asteroid, a network to detect the impact of asteroids on Earth.",
+    "company" : "BBVA",
     "country" : "Spain",
     "featured" : false,
-    "photoUrl" : "",
-    "socials" : [],
+    "photoUrl" : "../images/people/gemaparreñopiqueras.jpeg",
+    "socials" : [
+      {
+        "link" : "https://twitter.com/SoyGema",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://nl.linkedin.com/in/gemaparreno",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
     "badges" : [],
-    "tags" : []
+    "tags" : [
+      "tensorflow"
+    ]
   },
   "19": {
     "id" : 19,

@@ -1,27 +1,244 @@
 {
-  "registration" : {
-    "language" : "English",
-    "id" : 1,
-    "complexity" : "Beginner",
-    "speakers" : [],
-    "description" : "Time to get your badges, t-shirt and hopefully some coffee, ",
-    "tags" : [
+  "registration": {
+    "id": "registration",
+    "speakers": [],
+    "description": "Time to get your badges, t-shirt and hopefully some nice coffee",
+    "tags": [
       "General"
     ],
-    "title" : "Registration"
+    "title": "Registration",
+    "track": {
+      "title": "Foyer"
+    }
+  },
+  "opening": {
+    "id": "opening",
+    "speakers": [],
+    "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+    "tags": [
+      "General"
+    ],
+    "title": "GDG DevFest The Netherlands 2017 Opening",
+    "track": {
+      "title": "Spiderman"
+    }
+  },
+  "lunch": {
+    "id": "lunch",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "General"
+    ],
+    "title": "Lunch",
+    "track": {
+      "title": "Foyer"
+    }
+  },
+  "break": {
+    "id": "break",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "General"
+    ],
+    "title": "Break",
+    "track": {
+      "title": "Foyer"
+    }
+  },
+  "party": {
+    "id": "party",
+    "speakers": [],
+    "description": "The after party is a great time to have fun and meet new people!",
+    "tags": [
+      "General"
+    ],
+    "title": "Afterparty & networking",
+    "track": {
+      "title": "Café Oerknal"
+    }
+  },
+  "workshop_0": {
+    "id": "workshop_0",
+    "speakers": [],
+    "title": "Start learning Kotlin for Android",
+    "tags": [
+      "Android"
+    ]
   },
 
-  "opening" : {
-      "language" : "English",
-      "id" : 2,
-      "complexity" : "Beginner",
-      "speakers" : [
-         "jowipe", "jairzinnoh"
-      ],
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "tags" : [
-         "General"
-      ],
-      "title" : "GDG DevFest The Netherlands 2017 Opening"
-   }
+  "workshop_1": {
+    "id": "workshop_1",
+    "speakers": [],
+    "title": "Gentle introduction into Android Things",
+    "tags": [
+      "Android", "Things"
+    ]
+  },
+
+  "android_0": {
+    "id": "android_0",
+    "speakers": [],
+    "complexity": "Beginner",
+    "description": "From PostNL to Rijksmuseum, explore the evolution of Android architectures applied to real apps. Discover how we adopted the new Android Architecture Components to build the Rijksmuseum tours app and solve in an elegant way common Android lifecycle issues.",
+    "tags": [
+      "Mobile"
+    ],
+    "title": "The Android architecture re-evolution: ViewModel & LiveData"
+  },
+  "android_1": {
+    "id": "android_1",
+    "speakers": [],
+    "description": "In this talk we'll discuss the problems around UI testing - why is it hard to write such tests, how to get started, how to make them part of your CI system. We'll present a recipe for building a scalable framework that makes writing UI tests a pleasure. We'll discuss mocking libraries and ways to build your own testing DSL. Most of the common \"gotcha-s\" and sources of flakiness will be solved along the way, as well as giving a few best practices.",
+    "tags": [
+      "Mobile"
+    ],
+    "title": "Zero to Hero in UI testing"
+  },
+  "android_2": {
+    "id": "android_2",
+    "speakers": [],
+    "description": "Take a dive into a new cross platform SDK from Google to create Android and iOS apps with 1 codebase written in Dart. By creating an App for bettyskitchen.nl",
+    "tags": [
+      "Mobile"
+    ],
+    "title": "Creating your first flutter app"
+  },
+  "android_3": {
+    "id": "android_3",
+    "speakers": [],
+    "description": "It turns out there are a lot of things that are similar about learning a human language similar to one you already know and a computer language similar to one you already know. Some things being super-similar provides a huge leg up, but there are plenty of false friends in both types of language, and there are plenty of differences which make you wonder why you ever thought these things were similar in the first place. This is a tale of the triumphs and perils (and eerie similarities) of learning Dutch as a native English speaker and Kotlin as a developer with a good grip on Swift.",
+    "tags": [
+      "Mobile"
+    ],
+    "title": "Learning A New Language While Learning A New Language"
+  },
+  "android_4": {
+    "id": "android_4",
+    "speakers": [],
+    "description": "In the Android world we have heard of so many different app architectures already so why not just dump in another one :) In this talk I will introduce a kind of Event Driven architecture. We will discuss what Event Sourcing and CQRS means. We will also see some code examples of how this can be applied to Android using the famous Android Architecture Blueprints example app. We will also see what value it brings and what headaches it could create. Lastly we will briefly see how this can work with our cloud back-end and intelligent Machine Learning systems.",
+    "tags": [
+      "Mobile",
+      "Machine Learning"
+    ],
+    "title": "Event Sourcing & CQRS with Android"
+  },
+  "android_5": {
+    "id": "android_5",
+    "speakers": [],
+    "description": "Creating eye candy animations takes time and effort, but the end result is worth it. To make your life a bit easier, in this talk Ivan will share with you 10 tips he learned while working on all sorts of animations. Those tips will help you break your fear of animations and after this talk, you will have no more excuses.",
+    "tags": [
+      "Mobile"
+    ],
+    "title": "Stop Running from Animations"
+  },
+  "cloud_0": {
+    "id": "cloud_0",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Building complex, serverless, applications using Google Cloud Platform"
+  },
+  "cloud_1": {
+    "id": "cloud_1",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Google Cloud Spanner: Going global with relational database"
+  },
+  "cloud_2": {
+    "id": "cloud_2",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Building microservices with Kubernetes, gRPC and Istio"
+  },
+  "cloud_3": {
+    "id": "cloud_3",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "A Semantic Internet of Things"
+  },
+  "cloud_4": {
+    "id": "cloud_5",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "The Internals Of Kubernetes"
+  },
+  "cloud_5": {
+    "id": "cloud_5",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Detecting activity patterns on accelerometer data: a Deep Learning approach using Google Cloud"
+  },
+  "web_0": {
+    "id": "web_0",
+    "speakers": [],
+    "description": "In this session we'll dive into what the different Google Cloud ML APIs can do. We combine various solutions to get an interesting result. Goal of the session is share what's involved in creating such an application using ML APIs. Live demos is part of the presentation.",
+    "tags": [
+      "Machine Learning"
+    ],
+    "title": "Machine Learning APIs and how to get the most of it"
+  },
+  "web_1": {
+    "id": "web_1",
+    "speakers": [],
+    "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? What if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary web apps using Firebase.",
+    "tags": [
+      "Web"
+    ],
+    "title": "Let Firebase help you to build better Web apps"
+  },
+  "web_2": {
+    "id": "web_2",
+    "speakers": [],
+    "description": "The talk covers an introduction to Tensorflow main functioning and covers a wide variety of cases of use including images, raw data and approach to neural net design . It focuses on NASA SPACE APPS CHALLENGE 2016 Global finalist project for Asteroid detection and limbic system design.",
+    "tags": [
+      "Machine Learning"
+    ],
+    "title": "TensorFlow : Cases  of use"
+  },
+  "web_3": {
+    "id": "web_3",
+    "speakers": [],
+    "description": "Time for JavaScript to get physical. With WebBluetooth the Chrome browser can actually take control of all kinds of physical devices in the real world like lightbulbs, robots and even drones. And nowadays you can even run JavaScript straight on microcontrollers and even little Bluetooth beacons. This talk will teach you the basics that you need to get started and give a peek at some more advanced topics like building your own Bluetooth devices using just JavaScript.",
+    "tags": [
+      "Web"
+    ],
+    "title": "Having fun with JavaScript and Bluetooth"
+  },
+  "web_4": {
+    "id": "web_4",
+    "speakers": [],
+    "description": "Many developers starting out with TensorFlow will say it has a very steep learning curve. Why is this the case? In my talk I will argue that it is because TensorFlow is at the heart of three distinct disciplines: Computer Science, Artificial Intelligence and Mathematics. To truly build sensible programs with Tensorflow, one has to be familiar with at least the basics of each of these disciplines. In my talk I will start out with ideas from Artificial Intelligence, translate this to the realm of mathematics, and finally show how one could implement this on the computer with TensorFlow.",
+    "tags": [
+      "Machine Learning"
+    ],
+    "title": "TensorFlow: Making sense of it"
+  },
+  "web_5": {
+    "id": "web_5",
+    "speakers": [],
+    "description": "",
+    "tags": [
+      "Web"
+    ],
+    "title": "Designing a real-time data application: a case study on the stock market"
+  }
 }

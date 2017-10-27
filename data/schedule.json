@@ -65,7 +65,7 @@
         "startTime": "14:30",
         "endTime": "15:20",
         "sessions": [
-            ["health_1"], ["break"], ["break"]
+            ["break"]
         ]
     }, {
         "startTime": "15:20",
@@ -116,7 +116,6 @@
         "startTime": "13:00",
         "endTime": "14:30",
         "sessions": [
-            ["workshop_2"],
             ["workshop_1"]
         ]
     }]

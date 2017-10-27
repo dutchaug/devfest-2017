@@ -8,29 +8,29 @@
     "country": "The Netherlands",
     "featured": true,
     "photoUrl": "/images/people/dylan_drost.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://plus.google.com/+DylanDrost",
-        "name" : "Google+",
-        "icon" : "gplus"
+        "link": "https://plus.google.com/+DylanDrost",
+        "name": "Google+",
+        "icon": "gplus"
       },
       {
-        "link" : "https://twitter.com/aegis321",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/aegis321",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://www.facebook.com/dylan.drost",
-        "name" : "Facebook",
-        "icon" : "facebook"
+        "link": "https://www.facebook.com/dylan.drost",
+        "name": "Facebook",
+        "icon": "facebook"
       },
       {
-        "link" : "https://www.linkedin.com/in/dylandrost",
-        "name" : "LinkedIn",
-        "icon" : "linkedin"
+        "link": "https://www.linkedin.com/in/dylandrost",
+        "name": "LinkedIn",
+        "icon": "linkedin"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "Android"
     ],
@@ -46,19 +46,19 @@
     "country": "The Netherlands",
     "featured": true,
     "photoUrl": "/images/people/sebas.jpg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/sebaslogen",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/sebaslogen",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://github.com/sebaslogen/",
-        "name" : "Github",
-        "icon" : "github"
+        "link": "https://github.com/sebaslogen/",
+        "name": "Github",
+        "icon": "github"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "Android"
     ],
@@ -74,34 +74,34 @@
     "country": "The Netherlands",
     "featured": true,
     "photoUrl": "/images/people/bobvanluijt.jpg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/kubrickology",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/kubrickology",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://github.com/bobvanluijt/",
-        "name" : "Github",
-        "icon" : "github"
+        "link": "https://github.com/bobvanluijt/",
+        "name": "Github",
+        "icon": "github"
       },
       {
-        "link" : "https://www.linkedin.com/in/bobvanluijt/",
-        "name" : "LinkedIn",
-        "icon" : "linkedin"
+        "link": "https://www.linkedin.com/in/bobvanluijt/",
+        "name": "LinkedIn",
+        "icon": "linkedin"
       },
       {
-        "link" : "https://bob.wtf/",
-        "name" : "Website",
-        "icon" : "website"
+        "link": "https://bob.wtf/",
+        "name": "Website",
+        "icon": "website"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "iot"
     ],
     "title": "Google Developer Expert IoT"
-  },  
+  },
   "4": {
     "id": 4,
     "email": "info@html5test.com",
@@ -112,19 +112,20 @@
     "country": "The Netherlands",
     "featured": false,
     "photoUrl": "/images/people/nielsleenheer.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/html5test",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/html5test",
+        "name": "Twitter",
+        "icon": "twitter"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
-      "web", "javascript"
+      "web",
+      "javascript"
     ],
     "title": ""
-  },  
+  },
   "5": {
     "id": 5,
     "email": "ivan.maric@infinum.hr",
@@ -135,19 +136,19 @@
     "country": "Croatia",
     "featured": false,
     "photoUrl": "/images/people/ivanmaric.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/maric_iv",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/maric_iv",
+        "name": "Twitter",
+        "icon": "twitter"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "android"
     ],
     "title": ""
-  },  
+  },
   "6": {
     "id": 6,
     "email": "juarezpaf@gmail.com",
@@ -158,29 +159,30 @@
     "country": "Dublin/Ireland",
     "featured": false,
     "photoUrl": "/images/people/juarezfilho.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/juarezpaf",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/juarezpaf",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://github.com/juarezpaf/",
-        "name" : "Github",
-        "icon" : "github"
+        "link": "https://github.com/juarezpaf/",
+        "name": "Github",
+        "icon": "github"
       },
       {
-        "link" : "https://www.linkedin.com/in/juarezpaf/",
-        "name" : "LinkedIn",
-        "icon" : "linkedin"
+        "link": "https://www.linkedin.com/in/juarezpaf/",
+        "name": "LinkedIn",
+        "icon": "linkedin"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
-      "firebase", "web"
+      "firebase",
+      "web"
     ],
     "title": ""
-  },  
+  },
   "7": {
     "id": 7,
     "email": "rcgroot@gmail.com",
@@ -191,29 +193,29 @@
     "country": "The Netherlands",
     "featured": false,
     "photoUrl": "/images/people/renedegroot.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/rcgroot",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/rcgroot",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://github.com/rcgroot/",
-        "name" : "Github",
-        "icon" : "github"
+        "link": "https://github.com/rcgroot/",
+        "name": "Github",
+        "icon": "github"
       },
       {
-        "link" : "https://plus.google.com/u/1/+RenéDeGroot",
-        "name" : "Google+",
-        "icon" : "gplus"
+        "link": "https://plus.google.com/u/1/+RenéDeGroot",
+        "name": "Google+",
+        "icon": "gplus"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "android"
     ],
     "title": ""
-  },  
+  },
   "8": {
     "id": 8,
     "email": "iliev.vesselin@gmail.com",
@@ -224,24 +226,24 @@
     "country": "United Kingdom",
     "featured": false,
     "photoUrl": "/images/people/vesselinlliev.jpg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/ilievvesselin",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/ilievvesselin",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "http://veskoiliev.com/",
-        "name" : "Web",
-        "icon" : "web"
+        "link": "http://veskoiliev.com/",
+        "name": "Web",
+        "icon": "web"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "android"
     ],
     "title": ""
-  },  
+  },
   "9": {
     "id": 9,
     "email": "rokesh@google.com",
@@ -252,24 +254,25 @@
     "country": "The Netherlands",
     "featured": false,
     "photoUrl": "/images/people/RokeshJankie.png",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/rjankie",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/rjankie",
+        "name": "Twitter",
+        "icon": "twitter"
       },
       {
-        "link" : "https://plus.google.com/+RokeshJankie",
-        "name" : "Google+",
-        "icon" : "gplus"
+        "link": "https://plus.google.com/+RokeshJankie",
+        "name": "Google+",
+        "icon": "gplus"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
-      "cloud", "ml"
+      "cloud",
+      "ml"
     ],
     "title": ""
-  },  
+  },
   "10": {
     "id": 10,
     "email": "mail2shubho@gmail.com",
@@ -280,19 +283,19 @@
     "country": "The Netherlands",
     "featured": false,
     "photoUrl": "/images/people/shubhabrataroy.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "www.linkedin.com/in/shubhabrataroy",
-        "name" : "LinkedIn",
-        "icon" : "linkedin"
+        "link": "www.linkedin.com/in/shubhabrataroy",
+        "name": "LinkedIn",
+        "icon": "linkedin"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "ml"
     ],
     "title": ""
-  },  
+  },
   "11": {
     "id": 11,
     "email": "designatednerd@gmail.com",
@@ -303,63 +306,163 @@
     "country": "The Netherlands",
     "featured": false,
     "photoUrl": "/images/people/ellenshapiro.jpeg",
-    "socials" : [
+    "socials": [
       {
-        "link" : "https://twitter.com/DesignatedNerd",
-        "name" : "Twitter",
-        "icon" : "twitter"
+        "link": "https://twitter.com/DesignatedNerd",
+        "name": "Twitter",
+        "icon": "twitter"
       }
     ],
-    "badges" : [],
+    "badges": [],
     "tags": [
       "android"
     ],
     "title": ""
   },
   "12": {
-    "id" : 12,
+    "id": 12,
     "email": "stefan@qlouder.com",
-    "name" : "Stefan Hogendoorn",
-    "bio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform, and developed many small and large business apps. Furthermore, he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense. <br>Stefan is one of the two owners of Qlouder (2012). Qlouder is a Google Cloud Platform partner and aims to deliver continuous value to organizations. This value can be defined in many ways, for example incremental improvements to existing products, the creation of entirely new products and services, or reducing costs by means of Google Apps for Work, the Google Cloud Platform and custom-build applications. Qlouder advises, builds, implements and offers support.",
-    "shortBio" : "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company.",
-    "company" : "Qlouder",
-    "country" : "The Netherlands",
-    "featured" : false,
-    "photoUrl" : "../images/people/stefanhogendoorn.png",
-    "socials" : [
+    "name": "Stefan Hogendoorn",
+    "bio": "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform, and developed many small and large business apps. Furthermore, he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense. <br>Stefan is one of the two owners of Qlouder (2012). Qlouder is a Google Cloud Platform partner and aims to deliver continuous value to organizations. This value can be defined in many ways, for example incremental improvements to existing products, the creation of entirely new products and services, or reducing costs by means of Google Apps for Work, the Google Cloud Platform and custom-build applications. Qlouder advises, builds, implements and offers support.",
+    "shortBio": "Google Developer Expert & Firebase Expert Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company.",
+    "company": "Qlouder",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "../images/people/stefanhogendoorn.png",
+    "socials": [
       {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/shogendoorn"
-      },        
+        "icon": "twitter",
+        "link": "https://twitter.com/shogendoorn"
+      },
       {
-          "icon": "linkedin",
-          "link": "https://nl.linkedin.com/in/stefanhogendoorn"
+        "icon": "linkedin",
+        "link": "https://nl.linkedin.com/in/stefanhogendoorn"
       }
     ],
-    "badges" : [],
-    "tags" : [
-        "cloud"
+    "badges": [],
+    "tags": [
+      "cloud"
     ]
   },
   "13": {
-    "id" : 13,
+    "id": 13,
     "email": "novakovskiy@google.com",
-    "name" : "Dmitriy Novakovskiy",
-    "bio" : "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure. Prior to Google, Dmitriy held a variety of Product Management, Sales Engineering and Solution Architecture roles at Mirantis, working in cloud (OpenStack) and containerization (Kubernetes) domains. At his spare time Dmitriy enjoys traveling and great choice of music events offered by The Netherlands all year round.",
-    "shortBio" : "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure.",
-    "company" : "Google",
-    "country" : "The Netherlands",
-    "featured" : false,
-    "photoUrl" : "../images/people/dmitriynovakovskiy.jpg",
-    "socials" : [  
+    "name": "Dmitriy Novakovskiy",
+    "bio": "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure. Prior to Google, Dmitriy held a variety of Product Management, Sales Engineering and Solution Architecture roles at Mirantis, working in cloud (OpenStack) and containerization (Kubernetes) domains. At his spare time Dmitriy enjoys traveling and great choice of music events offered by The Netherlands all year round.",
+    "shortBio": "Dmitriy is a Sales Engineer at Google, where he supports customers in their journeys to scalable & automated cloud infrastructure.",
+    "company": "Google",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "../images/people/dmitriynovakovskiy.jpg",
+    "socials": [
       {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/dmitriynovakovskiy/"
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/dmitriynovakovskiy/"
       }
     ],
-    "badges" : [],
-    "tags" : [
-        "cloud"
+    "badges": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "14": {
+    "id": 14,
+    "email": "Milo.van.der.Zee@ahold.com",
+    "name": "Milo van der Zee",
+    "bio": "",
+    "shortBio": "",
+    "company": "Albert Heijn - Online",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "../images/people/milovanderzee.png",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": ""
+      }
+    ],
+    "badges": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "15": {
+    "id": 15,
+    "email": "ykaitao@gmail.com",
+    "name": "Kai-Tao Yang",
+    "bio": "",
+    "shortBio": "",
+    "company": "DL-APPLIED",
+    "country": "The Netherlands",
+    "featured": false,
+    "photoUrl": "../images/people/ykaitao.png",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ykaitao/"
+      }
+    ],
+    "badges": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "16": {
+    "id": 16,
+    "email": "gema.parreno.piqueras@gmail.com",
+    "name": "Gema Parreño Piqueras",
+    "bio": "",
+    "shortBio": "",
+    "company": "BBVA",
+    "country": "Spain",
+    "featured": false,
+    "photoUrl": "../images/people/gema.png",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://es.linkedin.com/in/gemaparreno/en"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/soygema"
+      }
+    ],
+    "badges": [],
+    "tags": [
+      "machine_learning"
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Max Knobbout"
+  },
+  "18": {
+    "id": 18,
+    "name": "angelo"
+  },
+  "19": {
+    "id": 19,
+    "email": "k@djodjo.org",
+    "name": "kalin",
+    "bio": "",
+    "shortBio": "Kalin is a freelance software engineer and entrepreneur and loves technology, automation, optimization and confrontation. He has a great passion for Android, REST APIs, Open Linked Data and distributed systems.",
+    "company": "Linked.Farm",
+    "country": "Belgium",
+    "featured": false,
+    "photoUrl": "../images/people/gema.png",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://es.linkedin.com/in/gemaparreno/en"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/soygema"
+      }
+    ],
+    "badges": [],
+    "tags": [
+      "machine_learning"
     ]
   }
 }

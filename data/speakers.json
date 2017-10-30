@@ -509,27 +509,61 @@
     "id" : 20,
     "email": "m.knobbout@wearetriple.com",
     "name" : "Max Knobbout",
-    "bio" : "",
-    "shortBio" : "",
+    "bio" : "Max Knobbout holds a PhD in Artificial Intelligence and is currently lead of the AI team at Triple. Triple is a partner for some of Holland’s leading brands, and the company focusses on everything \"digital\": From concept to strategy to design, apps to optimization, virtual reality to cloud management and cloud services. As you may expect, doing AI in such an innovative environment is both challenging and a lot of fun, since you are constantly working on new ideas using state-of-the-art AI techniques while working closely together with the customer.",
+    "shortBio" : "Max Knobbout holds a PhD in Artificial Intelligence and is currently lead of the AI team at Triple.",
     "company" : "Triple",
     "country" : "The Netherlands",
     "featured" : false,
-    "photoUrl" : "",
-    "socials" : [],
+    "photoUrl" : "../images/people/maxknobbout.jpeg",
+    "socials" : [
+      {
+        "link" : "https://www.linkedin.com/in/max-knobbout-670354101/",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
     "badges" : [],
-    "tags" : []
+    "tags" : [ 
+      "ai" 
+    ]
   },
   "21": {
     "id" : 21,
     "email": "ihor@linux.com",
     "name" : "Ihor Dvoretskyi",
-    "bio" : "",
-    "shortBio" : "",
+    "bio" : "Ihor is a Developer Advocate at Cloud Native Computing Foundation (under Linux Foundation governance), focused on the Kubernetes-related efforts at the open source community. He acts as a Product Manager at Kubernetes community, co-leading Product Management Special Interest Group; together with co-leading OpenStack Special Interest Group, related to OpenStack and Kubernetes collaboration and integration questions. Being a Linux user since 2005, and having a deep engineering background, Ihor has been responsible the for projects tightly bound to the Cloud Computing area, containerized workloads and Linux systems.",
+    "shortBio" : "Ihor is a Developer Advocate at Cloud Native Computing Foundation (under Linux Foundation governance), focused on the Kubernetes-related efforts at the open source community.",
     "company" : "Cloud Native Computing Foundation",
     "country" : "Ukraine",
     "featured" : false,
-    "photoUrl" : "",
-    "socials" : [],
+    "photoUrl" : "../images/people/ihordvoretskyi.jpeg",
+    "socials" : [
+      {
+        "link" : "https://github.com/idvoretskyi",
+        "name" : "Github",
+        "icon" : "github"
+      },
+      {
+        "link" : "https://plus.google.com/103000293055760527954",
+        "name" : "Google+",
+        "icon" : "gplus"
+      },
+      {
+        "link" : "https://twitter.com/idvoretskyi",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://idvoretskyi.com",
+        "name" : "Web",
+        "icon" : "website"
+      },
+      {
+        "link" : "https://nl.linkedin.com/in/idvoretskyi",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
     "badges" : [],
     "tags" : [
       "cloud"

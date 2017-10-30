@@ -55,16 +55,6 @@
       "Android"
     ]
   },
-  "workshop_1": {
-    "id": "workshop_1",
-    "speakers": [],
-    "description": "",
-    "title": "Gentle introduction into Android Things",
-    "tags": [
-      "Android",
-      "Things"
-    ]
-  },
   "android_0": {
     "id": "android_0",
     "speakers": [
@@ -102,7 +92,7 @@
   "android_3": {
     "id": "android_3",
     "speakers": [
-      11
+      16
     ],
     "description": "It turns out there are a lot of things that are similar about learning a human language similar to one you already know and a computer language similar to one you already know. Some things being super-similar provides a huge leg up, but there are plenty of false friends in both types of language, and there are plenty of differences which make you wonder why you ever thought these things were similar in the first place. This is a tale of the triumphs and perils (and eerie similarities) of learning Dutch as a native English speaker and Kotlin as a developer with a good grip on Swift.",
     "tags": [

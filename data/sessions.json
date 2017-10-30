@@ -252,7 +252,7 @@
     ],
     "description": "Applications that require data from real time events (such as a chat application, car position updates when you order an Uber, the stock market prices) impose their own challenges. How to store data? Can you cache data at all? How to make sure data that is constantly changing is consistent throughout the app? We’ll share our own experience at BUX on designing and coming up with an architecture to deal with these issues.",
     "tags": [
-      "Web"
+      "Mobile"
     ],
     "title": "Designing a real-time data application: a case study on the stock market"
   }

@@ -6,9 +6,18 @@
          "starts" : "",
          "ends" : "",
          "info" : "",
-         "currency" : "₴",
+         "currency" : "€",
          "soldOut" : true,
          "price" : 500
-      }
+      },
+      {
+        "name" : "Late bird",
+        "starts" : "November 10th, 6:00PM",
+        "ends" : "",
+        "info" : "",
+        "currency" : "€",
+        "soldOut" : false,
+        "price" : 500
+     }
    ]
 }

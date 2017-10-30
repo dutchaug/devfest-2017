@@ -266,7 +266,7 @@
     ],
     "badges" : [],
     "tags": [
-      "cloud", "ml"
+      "cloud", "machine-learning"
     ],
     "title": ""
   },  
@@ -289,7 +289,7 @@
     ],
     "badges" : [],
     "tags": [
-      "ml"
+      "machine-learning"
     ],
     "title": ""
   },
@@ -384,7 +384,7 @@
     "socials" : [],
     "badges" : [],
     "tags" : [
-        "cloud", "ml"
+        "cloud", "machine-learning"
     ]
   },
   "16": {
@@ -524,7 +524,7 @@
     ],
     "badges" : [],
     "tags" : [ 
-      "ai" 
+      "artifical-intelligence" 
     ]
   },
   "21": {

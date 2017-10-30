@@ -246,8 +246,8 @@
     "id": 9,
     "email": "rokesh@google.com",
     "name": "Rokesh Jankie",
-    "bio": "",
-    "shortBio": "",
+    "bio": "Rokesh Jankie is a Customer Engineer for Google Cloud in Amsterdam. Inspiring, helping and making sure customers have the best experience on Google Cloud is what's Rokesh is doing. Very passionate about the Google Data products and Machine learning products and capabilities on Google Cloud Platform. I advise customers on how they can leverage the power of Google Cloud Platform to create what's next for them.",
+    "shortBio": "Rokesh Jankie is a Customer Engineer for Google Cloud in Amsterdam. Inspiring, helping and making sure customers have the best experience on Google Cloud is what's Rokesh is doing.",
     "company": "Google",
     "country": "The Netherlands",
     "featured": false,
@@ -259,9 +259,9 @@
         "icon" : "twitter"
       },
       {
-        "link" : "https://plus.google.com/+RokeshJankie",
-        "name" : "Google+",
-        "icon" : "gplus"
+        "link" : "www.linkedin.com/in/rjankie",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
       }
     ],
     "badges" : [],

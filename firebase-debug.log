@@ -1,0 +1,32 @@
+[debug] [2017-10-30T06:36:16.873Z] ----------------------------------------------------------------------
+[debug] [2017-10-30T06:36:16.876Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2017-10-30T06:36:16.877Z] CLI Version:   3.9.2
+[debug] [2017-10-30T06:36:16.877Z] Platform:      darwin
+[debug] [2017-10-30T06:36:16.877Z] Node Version:  v6.11.2
+[debug] [2017-10-30T06:36:16.878Z] Time:          Mon Oct 30 2017 07:36:16 GMT+0100 (CET)
+[debug] [2017-10-30T06:36:16.878Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-30T06:36:16.896Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-30T06:36:16.896Z] > authorizing via signed-in user
+[debug] [2017-10-30T06:36:16.898Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-10-30T06:36:16.898Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/3JEbzaS4U6VgoQqZTK1Cv2Co5Laxna0HsApm7HyMrqs',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Mon Oct 30 2017 07:36:16 GMT+0100 (CET)
+[debug] [2017-10-30T06:36:17.154Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-30T06:36:17.175Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/devfest-nl  
+ Mon Oct 30 2017 07:36:17 GMT+0100 (CET)
+[debug] [2017-10-30T06:36:19.251Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-30T06:36:19.252Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/devfest-nl/tokens  
+ Mon Oct 30 2017 07:36:19 GMT+0100 (CET)
+[debug] [2017-10-30T06:36:21.469Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'devfest-nl'...
+[info] 
+[info] i  deploying database, hosting
+[info] ✔  database: rules ready to deploy.
+[info] i  hosting: preparing ./build directory for upload...
+[debug] [2017-10-30T06:36:23.848Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/devfest-nl/uploads/-Kxfzh3_YVx9Tl4gj6Y5?fileCount=157&message=  
+ Mon Oct 30 2017 07:36:23 GMT+0100 (CET)

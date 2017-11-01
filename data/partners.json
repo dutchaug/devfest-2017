@@ -20,7 +20,7 @@
          }
       ],
       "title" : "Platinum Sponsor"
-   }, 
+   },
    {
       "title" : "Gold Sponsors",
       "logosClass" : "gold",
@@ -61,7 +61,7 @@
             "logoUrl" : "../images/logos/bol-com.png"
          },
          {
-            "name" : "Us Media",
+            "name" : "UsMedia",
             "url" : "http://www.usmedia.nl",
             "logoUrl" : "../images/logos/UsMedia250.png"
          },
@@ -72,5 +72,16 @@
          }
       ],
       "title" : "Silver Sponsors"
-   }
+   },
+  {
+    "logosClass" : "bronze",
+    "logos" : [
+      {
+        "name" : "Code Orange",
+        "url" : "https://code-orange.nl/",
+        "logoUrl" : "../images/logos/co_logo.svg",
+        "width" : "150px"
+      }],
+    "title" : "Bronze Sponsors"
+  }
 ]

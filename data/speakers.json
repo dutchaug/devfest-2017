@@ -569,4 +569,36 @@
       "cloud"
     ]
   }
+  "22": {
+    "id" : 22,
+    "email": "dennis@dutchaug.org",
+    "name" : "Dennis Geurts",
+    "bio" : "Dennis is a software architect by day and IoT tinkerer by night, favoring Arduino and Android Things as the most promising platforms (always open to change, of course). When possible he tries to fit in his nightly endeavors into his daily activities, turning his hobby into a job.",
+    "shortBio" : "Dennis is a software architect by day and IoT tinkerer by night, favoring Arduino and Android Things as the most promising platforms (always open to change, of course). When possible he tries to fit in his nightly endeavors into his daily activities, turning his hobby into a job.",
+    "company" : "Luminis Arnhem",
+    "country" : "the Netherlands",
+    "featured" : false,
+    "photoUrl" : "../images/people/dennisgeurts.png",
+    "socials" : [
+      {
+        "link" : "https://github.com/dennisg",
+        "name" : "Github",
+        "icon" : "github"
+      },
+       {
+        "link" : "https://twitter.com/dennisgggg",
+        "name" : "Twitter",
+        "icon" : "twitter"
+      },
+      {
+        "link" : "https://nl.linkedin.com/in/dennisgeurts",
+        "name" : "LinkedIn",
+        "icon" : "linkedin"
+      }
+    ],
+    "badges" : ["gde"],
+    "tags" : [
+      "iot"
+    ]
+  }
 }

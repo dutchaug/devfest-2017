@@ -14,7 +14,7 @@
         "name" : "Late bird",
         "starts" : "November 10th, 6:00PM",
         "ends" : "",
-        "info" : "",
+        "info" : "Ticket sales starts at",
         "currency" : "€",
         "soldOut" : false,
         "price" : 500

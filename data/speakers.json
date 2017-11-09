@@ -568,7 +568,7 @@
     "tags" : [
       "cloud"
     ]
-  }
+  },
   "22": {
     "id" : 22,
     "email": "dennis@dutchaug.org",
@@ -599,6 +599,33 @@
     "badges" : ["gde"],
     "tags" : [
       "iot"
+    ]
+  },
+  "23": {
+    "id" : 23,
+    "email": "ernest@kramphub.com",
+    "name" : "Ernest Micklei",
+    "bio" : "Ernest Micklei holds the position of IT Architect at kramphub.com and has 25+ years of experience in Software Development, Design and Architecture. At kramphub.com, member of Kramp being the largest B2B-commerce company of the Netherlands, he is responsible for the architecture of its platform services. In addition, he is working with on security and middleware on top of the Google Cloud Platform. He is currently active in designing a multi-tenant micro-services architecture, setting up build and deploy tooling and working on performance testing. Despite having an architect role, he is still doing a lot of coding in Go. His contributions to the open-source community can be found at github.com/emicklei.",
+    "shortBio" : "Ernest Micklei holds the position of IT Architect at kramphub.com and has 25+ years of experience in Software Development, Design and Architecture.",
+    "company" : "Kramphub",
+    "country" : "The Netherlands",
+    "featured" : false,
+    "photoUrl" : "../images/people/ernestmicklei.png",
+    "socials" : [
+      {
+        "link" : "https://github.com/emicklei",
+        "name" : "Github",
+        "icon" : "github"
+      },
+      {
+        "link" : "https://ernestmicklei.com",
+        "name" : "Web",
+        "icon" : "website"
+      }
+    ],
+    "badges" : [],
+    "tags" : [
+      "cloud"
     ]
   }
 }

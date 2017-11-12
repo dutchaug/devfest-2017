@@ -55,6 +55,17 @@
       "Android"
     ]
   },
+  "workshop_1": {
+    "id": "workshop_1",
+    "speakers": [
+      22
+    ],
+    "description": "Android Things makes developing connected embedded devices easy by providing the same Android development tools, best-in-class Android framework, and Google APIs that make developers successful on mobile. Android Things extends the core Android framework with additional APIs provided by the Things Support Library. These APIs allow apps to integrate with new types of hardware not found on mobile devices. In this codelab, you will be using drivers from the Peripheral Driver Library to quickly build a fully-functional application that interacts with multiple peripherals simultaneously. You will learn how to open Peripheral I/O connections and transfer data between the devices. In this codelab, you're going to build a weather station that reads environmental temperature and pressure data from a BMP280 sensor, and displays the latest reading locally on the Rainbow HAT. Please note that this codelab assumes you have brought your own RaspBerryPi3/ NXP pico (with Android Things pre-installed)",
+    "title": "Gentle introduction into Android Things",
+    "tags": [
+      "Android", "Android Things"
+    ]
+  },
   "android_0": {
     "id": "android_0",
     "speakers": [

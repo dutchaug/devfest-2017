@@ -101,7 +101,7 @@
       "iot"
     ],
     "title": "Google Developer Expert IoT"
-  },  
+  },
   "4": {
     "id": 4,
     "email": "info@html5test.com",
@@ -124,7 +124,7 @@
       "web", "javascript"
     ],
     "title": ""
-  },  
+  },
   "5": {
     "id": 5,
     "email": "ivan.maric@infinum.hr",
@@ -147,7 +147,7 @@
       "android"
     ],
     "title": ""
-  },  
+  },
   "6": {
     "id": 6,
     "email": "juarezpaf@gmail.com",
@@ -180,7 +180,7 @@
       "firebase", "web"
     ],
     "title": ""
-  },  
+  },
   "7": {
     "id": 7,
     "email": "rcgroot@gmail.com",
@@ -213,7 +213,7 @@
       "android"
     ],
     "title": ""
-  },  
+  },
   "8": {
     "id": 8,
     "email": "iliev.vesselin@gmail.com",
@@ -241,7 +241,7 @@
       "android"
     ],
     "title": ""
-  },  
+  },
   "9": {
     "id": 9,
     "email": "rokesh@google.com",
@@ -269,7 +269,7 @@
       "cloud", "machine-learning"
     ],
     "title": ""
-  },  
+  },
   "10": {
     "id": 10,
     "email": "mail2shubho@gmail.com",
@@ -307,7 +307,7 @@
       {
           "icon" : "twitter",
           "link" : "https://twitter.com/shogendoorn"
-      },        
+      },
       {
           "icon": "linkedin",
           "link": "https://nl.linkedin.com/in/stefanhogendoorn"
@@ -328,7 +328,7 @@
     "country" : "The Netherlands",
     "featured" : false,
     "photoUrl" : "../images/people/dmitriynovakovskiy.jpg",
-    "socials" : [  
+    "socials" : [
       {
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/dmitriynovakovskiy/"
@@ -349,7 +349,7 @@
     "country" : "Belgium",
     "featured" : false,
     "photoUrl" : "../images/people/kalinmaldzhanski.jpeg",
-    "socials" : [  
+    "socials" : [
       {
         "link" : "https://twitter.com/djodjoni",
         "name" : "Twitter",
@@ -523,8 +523,8 @@
       }
     ],
     "badges" : [],
-    "tags" : [ 
-      "artificial-intelligence" 
+    "tags" : [
+      "artificial-intelligence"
     ]
   },
   "21": {
@@ -578,7 +578,7 @@
     "company" : "Luminis Arnhem",
     "country" : "the Netherlands",
     "featured" : false,
-    "photoUrl" : "../images/people/dennisgeurts.png",
+    "photoUrl" : "../images/people/DennisGeurts.jpg",
     "socials" : [
       {
         "link" : "https://github.com/dennisg",

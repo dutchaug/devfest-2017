@@ -16,7 +16,7 @@
         "ends" : "",
         "info" : "Ticket sales starts",
         "currency" : "€",
-        "soldOut" : false,
+        "soldOut" : true,
         "price" : 500
      }
    ]

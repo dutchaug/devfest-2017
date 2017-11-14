@@ -139,7 +139,7 @@
     "speakers": [
       12
     ],
-    "description": "In this session we'll dive into what the different Google Cloud ML APIs can do. We combine various solutions to get an interesting result. Goal of the session is share what's involved in creating such an application using ML APIs. Live demos is part of the presentation.",
+    "description": "This talk will be about how to develop complex and scaleable (business) applications that have a good performance, using the Google Cloud Platform and Firebase. The first question is: why serverless? This includes the advantages and disadvantages of developing your application serverless.  When this question is answered,  you have to start designing. How do you design serverless? What are the challenges and what is the reward? How do you connect all parts and keep these parts connected for the application’s lifetime? We share our best practices, pitfalls, and also our successes.",
     "tags": [
       "Cloud"
     ],

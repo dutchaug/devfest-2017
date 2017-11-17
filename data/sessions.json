@@ -266,5 +266,16 @@
       "Mobile"
     ],
     "title": "Designing a real-time data application: a case study on the stock market"
+  },
+  "barcamp": {
+    "id": "barcamp",
+    "speakers": [
+      23, 10
+    ],
+    "description": "'Organizing Cloud Secrets' and 'Satellite Imagery and Deep Learning'",
+    "tags": [
+      "barcamp"
+    ],
+    "title": "Barcamp: 'Organizing Cloud Secrets' and 'Satellite Imagery and Deep Learning'"
   }
 }

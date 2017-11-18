@@ -179,8 +179,8 @@
     ],
     "title": "A Semantic Internet of Things"
   },
-  "cloud_4": {
-    "id": "cloud_4",
+  "web_4": {
+    "id": "web_4",
     "speakers": [
       19
     ],
@@ -245,17 +245,6 @@
     ],
     "title": "Having fun with JavaScript and Bluetooth"
   },
-  "web_4": {
-    "id": "web_4",
-    "speakers": [
-      20
-    ],
-    "description": "Many developers starting out with TensorFlow will say it has a very steep learning curve. Why is this the case? In my talk I will argue that it is because TensorFlow is at the heart of three distinct disciplines: Computer Science, Artificial Intelligence and Mathematics. To truly build sensible programs with Tensorflow, one has to be familiar with at least the basics of each of these disciplines. In my talk I will start out with ideas from Artificial Intelligence, translate this to the realm of mathematics, and finally show how one could implement this on the computer with TensorFlow.",
-    "tags": [
-      "Machine Learning"
-    ],
-    "title": "TensorFlow: Making sense of it"
-  },
   "web_5": {
     "id": "web_5",
     "speakers": [
@@ -267,8 +256,8 @@
     ],
     "title": "Designing a real-time data application: a case study on the stock market"
   },
-  "barcamp": {
-    "id": "barcamp",
+  "cloud_4": {
+    "id": "cloud_4",
     "speakers": [
       23, 10
     ],
